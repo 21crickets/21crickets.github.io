@@ -1,6 +1,6 @@
 ## yaml-language-server: $schema=https://armanriazi.github.io/mkdocs-material/schema.json
 
-site_name: Arman Riazi
+site_name: AramisTech
 repo_url: https://github.com/aramis-tech
 nav:    
     - 'Home':
