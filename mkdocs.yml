@@ -1,7 +1,7 @@
 ## yaml-language-server: $schema=https://armanriazi.github.io/mkdocs-material/schema.json
 
 site_name: Arman Riazi
-repo_url: https://github.com/armanriazi
+repo_url: https://github.com/Aramis-Tech
 nav:    
     - 'Home':
         - 'Index': './'   
@@ -57,7 +57,7 @@ extra:
       lang: de
   social:
     - icon: fontawesome/brands/github-alt
-      link: 'https://github.com/armanriazi'      
+      link: 'https://github.com/Aramis-Tech'      
   icon:
     admonition:
       note: octicons/tag-16
@@ -111,7 +111,7 @@ markdown_extensions:
   - pymdownx.magiclink:
       repo_url_shorthand: true
       user: armanriazi
-      repo: armanriazi.github.io
+      repo: Aramis-Tech.github.io
   - pymdownx.mark
   - pymdownx.smartsymbols
   - pymdownx.superfences:
@@ -166,4 +166,4 @@ extra:
     - icon: fontawesome/brands/linkedin
       link: https://linkedin.com/in/armanriazi            
 copyright: |
-  &copy; 2023 <a href="https://github.com/armanriazi"  target="_blank" rel="noopener">Arman Riazi</a>
+  &copy; 2023 <a href="https://github.com/Aramis-Tech"  target="_blank" rel="noopener">Arman Riazi</a>
