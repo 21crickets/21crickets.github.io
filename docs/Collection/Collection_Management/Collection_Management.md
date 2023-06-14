@@ -1,0 +1,6 @@
+- [[ownership]]
+  - [[Developer]]
+  - [[User]]
+- [[administrator]]
+  - [[smartcontract]]
+  - [[Labeler]]

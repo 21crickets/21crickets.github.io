@@ -1,0 +1,3 @@
+a [[smartcontract]] can serve as a collection administrator to allow advanced decentralized application logic such as Claiming free MusicPunks , for example.
+Another important right that collection ownership gives is administrator who is would be [[Labeler]].
+An administrator of collection is the account that has #elevate d #privilege s over common users, but slightly less than a collection owner. As such, only the collection owner can destroy the collection and add administrators.
