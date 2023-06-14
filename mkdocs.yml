@@ -110,7 +110,7 @@ markdown_extensions:
   - pymdownx.keys
   - pymdownx.magiclink:
       repo_url_shorthand: true
-      user: armanriazi
+      user: aramis-tech
       repo: Aramis-Tech.github.io
   - pymdownx.mark
   - pymdownx.smartsymbols
@@ -159,11 +159,11 @@ extra:
             using our <a href="https://docs.google.com/forms/d/e/1FAIpQLSePtZh6Upj2tconoH43yqadxL2W-wo0coms41yjysY_Amyqzw/viewform?usp=pp_url&entry.853143515=/browser-support/" target="_blank" rel="noopener">feedback form</a>.  
   social:
     - icon: fontawesome/brands/twitter 
-      link: https://twitter.com/arman_riazi_science
-      name: ArmanRiazi on Twitter
+      link: https://twitter.com/aramistech
+      name: Aramistech on Twitter
     - icon: fontawesome/brands/github
       link: https://github.com/aramis-tech
     - icon: fontawesome/brands/linkedin
-      link: https://linkedin.com/in/armanriazi            
+      link: https://linkedin.com/company/aramistech          
 copyright: |
   &copy; 2023 <a href="https://github.com/aramis-tech"  target="_blank" rel="noopener">Arman Riazi</a>
