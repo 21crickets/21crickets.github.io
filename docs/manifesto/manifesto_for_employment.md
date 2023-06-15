@@ -5,7 +5,7 @@ author: "Arman Riazi"
 title: "Manifesto"
 ---
 
-> NOTICE OF CONFIDENTIALITY([Terms and Conditions](Concern_Legal/Agreement_Legal.md))
+> NOTICE OF CONFIDENTIALITY([Terms and Conditions](../Concern_Legal/Agreement_Legal.md))
 Case studies, comparisons, statistics, research, and recommendations are provided “AS IS” and intended for informational purposes only and should not be relied upon for operational, marketing, legal, technical, tax, financial, or other advice. AramisTech . neither makes any warranty or representation as to the completeness or accuracy of the information within this document, nor assumes any liability or responsibility that may result from reliance on such information. The Information contained herein is not intended as investment or legal advice, and readers are encouraged to seek the advice of a competent professional where such advice is required. All of details of papers were registered. The paper that you are reading is not a final version, so it is possible that some sections will have minor changes.
 
 > MFS is the short name of the platform, and it is going to be  mentioned  in the final version of the paper.
