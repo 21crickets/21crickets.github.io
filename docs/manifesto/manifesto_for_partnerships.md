@@ -56,7 +56,7 @@ We also could create a core team to look after the various functions of the comp
 The mission of the company is to receive at least USD $150,000 in funding or investment from a third-party venture capitalist (VC) or angel investor duly accredited by a government agency.
 Our company is to be incubated by an incubator or accelerator recognized by the government, so we welcome having an established business network and entrepreneurial track record. Kindly, make your decision in which section you are able to join AramisTech.
 
-- [x] Raised funding from capital providers including government investment vehicles, venture capitalists, corporates, family offices, and business angels.
+- [x] Raised funding from capital providers including government investment, venture capitalists, corporates, and business angels.
 - [x] Developed, produced or commercialized tech products, services or platforms.
 - [x] Registered patents with an approved national IP institution.
 - [x] Ongoing research collaboration with a research institution.
