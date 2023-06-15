@@ -57,6 +57,7 @@ Our team is skilled and dedicated to providing top-notch services. If you're int
 4.  2+ Music producer, Digitized sounds
 
 `Responsibilities:`
+
 - [x] Self-organization and Self-management
 - [x] Working with the team of developers and closely with CTO.
 
@@ -91,4 +92,4 @@ Best regards,
 *Arman Riazi, CTO*
 
 > I have founded the start-up. I wrote papers, and I ran the beginning of communication and development alone. I am to make money after raising capital. So, I would like to work for myself under the Umbrella of AramisTech to boost our power team by the time we will be given shares as a stakeholder. ref. token distribution. 
-> To remind, you can start your journey in AramisTech. We are engaged to find partnerships to form the company, and you only need to keep tuned and fill out the form.
+> As we pointed out, you can start your journey in AramisTech. We are engaged to find partnerships to form the company, and you only need to keep tuned and fill out the form.
