@@ -23,6 +23,6 @@ title: "Recuiter"
 
 4.  [5 Steps to join](./steps-to-join.md)
 
-5.  Review your work after 1 spirit/slot(viz 2-4 iteration. every Ite is equal 1 week)
+5.  Review your work after 1 sprint/slot(viz 2-4 iteration. every Ite is equal 1 week)
 
 6.  You will join as a full time knight
