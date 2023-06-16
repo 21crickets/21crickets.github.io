@@ -6,9 +6,11 @@ nav:
     - 'Home':
         - 'Index': './'   
     - 'Forms':
-        - 'Contribution': './forms/Forms'                                                   
+        - 'Forms': './forms/Forms'                                                   
     - 'Manifesti':
-        - 'Contribution': './manifesto/Manifesto'        
+        - 'Manifesto': './manifesto/Manifesto'        
+    - 'Join Us':
+        - 'Recuiter': './career/Employment/'               
 theme:
   name: material
   logo: assets/logo.JPG
