@@ -14,12 +14,27 @@ I made a monorepo of all of the repositories in all programming languages. You s
 
 ## Discord
 
-`Discord-NFT-Music-UI`
-[Discord public channel](https://discordapp.com/channels/1119077618835259462/1119077928706244648)
+**Notice** Based on your niche looking job or desired job, clickOn one of Discord channels although you can join to all public channels but you can only join the a private channel which we will send you a link.
 
 > After joining the group, I am going to send an invitation link for joining the private channel P2G. So, Pls do not forget to accept the invitation. We are going to map up about project on Discord private channel. So, we do not speak about project in Github,Gist, or via email, so on.
 
-<iframe src="https://discordapp.com/widget?id=1119077618835259462&theme=dark" width="350" height="500" allowtransparency="true" frameborder="0" sandbox="allow-popups allow-popups-to-escape-sandbox allow-same-origin allow-scripts"></iframe>
+---
+
+`Discord-NFT-Music-UI`
+[Invitation Link](https://discord.gg/4pj3UddZ)
+[Discord public channel](https://discordapp.com/channels/1119077618835259462/1119077928706244648)
+
+---
+
+`Discord-NFT-Music-Backend`
+[Invitation Link](https://discord.gg/wdsDpgen)
+[Discord public channel](https://discordapp.com/channels/1119077618835259462/1120402380274540554)
+
+`Discord-NFT-Music-Blockchain`
+[Invitation Link](https://discord.gg/HnAGEP4C)
+[Discord public channel](https://discordapp.com/channels/1119077618835259462/1120404988473118752)
+
+---
 
 `Telegram Public Channel`
 
