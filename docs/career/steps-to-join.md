@@ -14,12 +14,26 @@ I made a monorepo of all of the repositories in all programming languages. You s
 
 ## Discord
 
-`NFT-Music-UI`
+`Discord-NFT-Music-UI`
 [Discord public channel](https://discordapp.com/channels/1119077618835259462/1119077928706244648)
 
 > After joining the group, I am going to send an invitation link for joining the private channel P2G. So, Pls do not forget to accept the invitation. We are going to map up about project on Discord private channel. So, we do not speak about project in Github,Gist, or via email, so on.
 
 <iframe src="https://discordapp.com/widget?id=1119077618835259462&theme=dark" width="350" height="500" allowtransparency="true" frameborder="0" sandbox="allow-popups allow-popups-to-escape-sandbox allow-same-origin allow-scripts"></iframe>
+
+`Telegram Public Channel`
+
+[Channel](https://t.me/mfs_nft_music)
+
+[Invite link of channel](https://t.me/+bZwYECRJCNBiNmFk)
+
+`Telegram Public Group`
+
+[Group](https://t.me/public_mfs_nft_music)
+
+[Invite link of group](https://t.me/+3wIB03SJbnMzODhk)
+
+
 
 ## Check the project out 
 
