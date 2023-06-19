@@ -1,4 +1,4 @@
-# 5 Steps to Join the Project
+# FiveSteps to join Army
 
 **Notice** 
 Repositories are temporary on my Github. After we reach alpha targets, we are going to move projects to the new devops infrastructure.
@@ -37,6 +37,9 @@ Pls open the project section on Github. I entered some sample data. You can put 
 The `Performance` column or `Aggregated Result as a Kind of the Postdiction` means:
 `How much would your estimation be to keep going with the current iteration based on all of the previous iterations?`
 > e.g., I am in iteration no. 3 (3rd week). After spending 4 or 7 days, I would have found that the tasks were completed easily and quickly. So, in this situation, I must set `Performance` to `1` cos my performance has not decreased. But if I had found that my performance decreased, I would have adjusted `Performance` to `0.25`, for example.
+
+## Linkedin
+Follow AramisTech on the linkedin(https://linkedin.com/company/aramistech)
 
 ## Fork the repository
 Pls add a branch with your full name. When you think you've finished your feature or passed all of your unit tests, then you'd better send the command of the push request with the tag format of `name of the feature-letters of month (e.g., June)-no.iteration-no.order (e.g., 1 or 2...n)`
