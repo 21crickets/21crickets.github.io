@@ -11,7 +11,7 @@ nav:
         - 'Manifesto': './manifesto/Manifesto'        
     - 'Join Us':
         - 'Recuiter': './career/Employment/' 
-    - 'Army of MFS':
+    - 'MFS Army':
         - 'Recuiter': './career/army-mfs/'         
 theme:
   name: material
