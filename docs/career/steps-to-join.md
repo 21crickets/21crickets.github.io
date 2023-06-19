@@ -12,59 +12,47 @@ I made a monorepo of all of the repositories in all programming languages. You s
 - [x] I accept the intellectual and material rights of this work and I am aware of the constructive efforts and rights of ones. 
 - [x] I confirm to insert the image of my face on the website to introduce myself in the section `Overview of the Team.`
 
-## Discord
+## Social Media
 
 **Notice** Based on your niche looking job or desired job, clickOn one of Discord channels although you can join to all public channels but you can only join the a private channel which we will send you a link.
 
 > After joining the group, I am going to send an invitation link for joining the private channel P2G. So, Pls do not forget to accept the invitation. We are going to map up about project on Discord private channel. So, we do not speak about project in Github,Gist, or via email, so on.
 
-<details>
-  <summary>Discords</summary>
+<details open><summary>Hello</summary><blockquote>
+  <details><summary>World - click me to open</summary><blockquote>
+  `Discord-NFT-Music-UI`
+  [Invitation Link](https://discord.gg/4pj3UddZ)
+  [Discord public channel](https://discordapp.com/channels/1119077618835259462/1119077928706244648)  
+  `Discord-NFT-Music-Backend`
+  [Invitation Link](https://discord.gg/wdsDpgen)
+  [Discord public channel](https://discordapp.com/channels/1119077618835259462/1120402380274540554)  
+  `Discord-NFT-Music-Blockchain`
+  [Invitation Link](https://discord.gg/HnAGEP4C)
+  [Discord public channel](https://discordapp.com/channels/1119077618835259462/1120404988473118752)  
+  `Discord-NFT-Music-COO`
+  [Invitation Link](https://discord.gg/eyy6wdfR)
+  [Discord public channel](https://discordapp.com/channels/1119077618835259462/1120439694853947603)  
+  `Discord-NFT-Music-CFO`
+  [Invitation Link](https://discord.gg/5EQfbXuA)
+  [Discord public channel](https://discordapp.com/channels/1119077618835259462/1120443154278125569)  
+  `Discord-NFT-Music-CMO`
+  [Invitation Link](https://discord.gg/fUPYY7Z5)
+  [Discord public channel](https://discordapp.com/channels/1119077618835259462/1120441029544398988)
+  </blockquote></details>
+  <details open><summary>World</summary><blockquote>
+    `Telegram Public Channel`
+    [Channel](https://t.me/mfs_nft_music)    
+    [Invite link of channel](https://t.me/+bZwYECRJCNBiNmFk)    
+    `Telegram Public Group`    
+    [Group](https://t.me/public_mfs_nft_music)    
+    [Invite link of group](https://t.me/+3wIB03SJbnMzODhk)
+  </blockquote></details>
+</blockquote></details>
 
-`Discord-NFT-Music-UI`
-[Invitation Link](https://discord.gg/4pj3UddZ)
-[Discord public channel](https://discordapp.com/channels/1119077618835259462/1119077928706244648)
 
-`Discord-NFT-Music-Backend`
-[Invitation Link](https://discord.gg/wdsDpgen)
-[Discord public channel](https://discordapp.com/channels/1119077618835259462/1120402380274540554)
-
-`Discord-NFT-Music-Blockchain`
-[Invitation Link](https://discord.gg/HnAGEP4C)
-[Discord public channel](https://discordapp.com/channels/1119077618835259462/1120404988473118752)
-
-`Discord-NFT-Music-COO`
-[Invitation Link](https://discord.gg/eyy6wdfR)
-[Discord public channel](https://discordapp.com/channels/1119077618835259462/1120439694853947603)
-
-`Discord-NFT-Music-CFO`
-[Invitation Link](https://discord.gg/5EQfbXuA)
-[Discord public channel](https://discordapp.com/channels/1119077618835259462/1120443154278125569)
-
-`Discord-NFT-Music-CMO`
-[Invitation Link](https://discord.gg/fUPYY7Z5)
-[Discord public channel](https://discordapp.com/channels/1119077618835259462/1120441029544398988)
-
-</details>
-
----
-
-<details>
-  <summary>Telegram</summary>
   
-`Telegram Public Channel`
 
-[Channel](https://t.me/mfs_nft_music)
 
-[Invite link of channel](https://t.me/+bZwYECRJCNBiNmFk)
-
-`Telegram Public Group`
-
-[Group](https://t.me/public_mfs_nft_music)
-
-[Invite link of group](https://t.me/+3wIB03SJbnMzODhk)
-
-</details>
 
 ## Check the project out 
 
@@ -81,14 +69,14 @@ Pls open the project section on Github. I entered some sample data. You can put 
 `Efficiency` column or `Positive Prediction` means:
 `How much would be your estimation to complete the next iteration based on the current iteration?`
 
-!!! info inline end "Example"
+!!! info "Example"
 
     I am in iteration no. 1 (first week). After spending 4 or 7 days, I would have found that the tasks were completed easily and quickly. So, in this situation, I must set `Efficiency` to `25`.
 
 `Performance` column or `Aggregated Result as a Kind of the Postdiction` means:
 `How much would your estimation be to keep going with the current iteration based on all of the previous iterations?`
 
-!!! info inline end "Example"
+!!! info end "Example"
 
     I am in iteration no. 3 (3rd week). After spending 4 or 7 days, I would have found that the tasks were completed easily and quickly. So, in this situation, I must set `Performance` to `1` cos my performance has not decreased. But if I had found that my performance decreased, I would have adjusted `Performance` to `0.25`, for example.
 
