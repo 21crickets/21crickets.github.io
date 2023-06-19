@@ -21,16 +21,17 @@ title: "Recruitment"
 
 ---
 
-`Notice`
+??? note
 
-For example, we have 1300 candidates in our army currently; you'd better know there is a limitation ASP. It must not exceed of 300 candidates. We may have 1000 candidate in the army, and they were going to do. It is clear for us when they have not done any tasks on Github. So, we only distribute profits to active users who had done at least one successful task or at least 2 failed task. So, we provide rewards in spite of the fact that he/she failed to do a task successfully in the opinion of the administrator.
+  For example, we have 1300 candidates in our army currently; you'd better know there is a limitation ASP. It must not exceed of 300 candidates. We may have 1000 candidate in the army,   and they were going to do. It is clear for us when they have not done any tasks on Github. So, we only distribute profits to active users who had done at least one successful task or   at least 2 failed task. So, we provide rewards in spite of the fact that he/she failed to do a task successfully in the opinion of the administrator.
 
-**Percent of staked value of ASP belongs to the platform, and who are in the army do not have any kind of rights to tokens or company, provided the situation is only a chance to give privileges to Knight(Main chart of company) or taking stacked tokens by the platform.**
+??? warning
 
-**We only emphasize on activity(failed or success) and every kind of activity has gotten a reward.**
+  **1. Percent of staked value of ASP belongs to the platform, and who are in the army do not have any kind of rights to tokens or company, provided the situation is only a chance to give privileges to Knight(Main chart of company) or taking stacked tokens by the platform.**
+  **2. We only emphasize on activity(failed or success) and every kind of activity has gotten a reward.**
+  **3. We carried out our proposed token distribution with all programs (as pointed out) for every kind of registering and formal correcpondace with voucher innovations/research instituations. So it is not possible for us to ignore our plan and strategies.**
 
-**We carried out our proposed token distribution with all programs (as pointed out) for every kind of registering and formal correcpondace with voucher innovations/research instituations. So it is not possible for us to ignore our plan and strategies.**
-
-
-*Final Step*  After being accepted, you will join as a full-time knight. You will be one of our formal co-worker, and we will utilize 17-19% of shares alongside so many other benefits that  recruiters will speak about it during the final interview. So, in all process and steps, we will have one or two interviews with you because most of your success depends on your activity, and reports that we will be given.
+!!!+ success
+  
+  *Final Step*  After being accepted, you will join as a full-time knight. You will be one of our formal co-worker, and we will utilize 17-19% of shares alongside so many other benefits that  recruiters will speak about it during the final interview. So, in all process and steps, we will have one or two interviews with you because most of your success depends on your activity, and reports that we will be given.
 
