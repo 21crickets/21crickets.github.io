@@ -24,8 +24,6 @@ I made a monorepo of all of the repositories in all programming languages. You s
 [Invitation Link](https://discord.gg/4pj3UddZ)
 [Discord public channel](https://discordapp.com/channels/1119077618835259462/1119077928706244648)
 
----
-
 `Discord-NFT-Music-Backend`
 [Invitation Link](https://discord.gg/wdsDpgen)
 [Discord public channel](https://discordapp.com/channels/1119077618835259462/1120402380274540554)
