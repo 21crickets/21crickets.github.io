@@ -10,7 +10,9 @@ nav:
     - 'Manifesti':
         - 'Manifesto': './manifesto/Manifesto'        
     - 'Join Us':
-        - 'Recuiter': './career/Employment/'               
+        - 'Recuiter': './career/Employment/' 
+    - 'Army of MFS':
+        - 'Recuiter': './career/army-mfs/'         
 theme:
   name: material
   logo: assets/logo.JPG
