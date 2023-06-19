@@ -14,7 +14,7 @@ nav:
     - 'MFS Army':
         - 'MFS Army': './career/army-mfs/'         
     - 'Superstars':
-        - 'Singers': './actors/Superstars.md'                 
+        - 'Singers': './Actors/Superstars.md'                 
 theme:
   name: material
   logo: assets/logo.JPG
