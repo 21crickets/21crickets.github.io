@@ -23,7 +23,7 @@ title: "Recruitment"
 
 ??? note
 
-  For example, we have 1300 candidates in our army currently; you'd better know there is a limitation ASP. It must not exceed of 300 candidates. We may have 1000 candidate in the army,   and they were going to do. It is clear for us when they have not done any tasks on Github. So, we only distribute profits to active users who had done at least one successful task or   at least 2 failed task. So, we provide rewards in spite of the fact that he/she failed to do a task successfully in the opinion of the administrator.
+    For example, we have 1300 candidates in our army currently; you'd better know there is a limitation ASP. It must not exceed of 300 candidates. We may have 1000 candidate in the army,   and they were going to do. It is clear for us when they have not done any tasks on Github. So, we only distribute profits to active users who had done at least one successful task or   at least 2 failed task. So, we provide rewards in spite of the fact that he/she failed to do a task successfully in the opinion of the administrator.
 
 ??? warning
 
