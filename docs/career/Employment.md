@@ -31,5 +31,5 @@ For example, we have 1300 candidates in our army currently; you'd better know th
 
 ---
 
- 8.  After being accepted, you will join as a full-time knight. You will be one of our formal co-worker, and we will utilize 17-19% of shares alongside so many other benefits that  recruiters will speak about it during the final interview. So, in all process and steps, we will have one or two interviews with you because most of your success depends on your activity, and reports that we will be given.
+7.  After being accepted, you will join as a full-time knight. You will be one of our formal co-worker, and we will utilize 17-19% of shares alongside so many other benefits that  recruiters will speak about it during the final interview. So, in all process and steps, we will have one or two interviews with you because most of your success depends on your activity, and reports that we will be given.
 
