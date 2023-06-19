@@ -29,7 +29,6 @@ For example, we have 1300 candidates in our army currently; you'd better know th
 
 **We carried out our proposed token distribution with all programs (as pointed out) for every kind of registering and formal correcpondace with voucher innovations/research instituations. So it is not possible for us to ignore our plan and strategies.**
 
----
 
 7.  After being accepted, you will join as a full-time knight. You will be one of our formal co-worker, and we will utilize 17-19% of shares alongside so many other benefits that  recruiters will speak about it during the final interview. So, in all process and steps, we will have one or two interviews with you because most of your success depends on your activity, and reports that we will be given.
 
