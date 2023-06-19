@@ -18,7 +18,8 @@ I made a monorepo of all of the repositories in all programming languages. You s
 
 > After joining the group, I am going to send an invitation link for joining the private channel P2G. So, Pls do not forget to accept the invitation. We are going to map up about project on Discord private channel. So, we do not speak about project in Github,Gist, or via email, so on.
 
----
+<details>
+  <summary>Discords</summary>
 
 `Discord-NFT-Music-UI`
 [Invitation Link](https://discord.gg/4pj3UddZ)
@@ -32,8 +33,25 @@ I made a monorepo of all of the repositories in all programming languages. You s
 [Invitation Link](https://discord.gg/HnAGEP4C)
 [Discord public channel](https://discordapp.com/channels/1119077618835259462/1120404988473118752)
 
+`Discord-NFT-Music-COO`
+[Invitation Link](https://discord.gg/eyy6wdfR)
+[Discord public channel](https://discordapp.com/channels/1119077618835259462/1120439694853947603)
+
+`Discord-NFT-Music-CFO`
+[Invitation Link](https://discord.gg/5EQfbXuA)
+[Discord public channel](https://discordapp.com/channels/1119077618835259462/1120443154278125569)
+
+`Discord-NFT-Music-CMO`
+[Invitation Link](https://discord.gg/fUPYY7Z5)
+[Discord public channel](https://discordapp.com/channels/1119077618835259462/1120441029544398988)
+
+</details>
+
 ---
 
+<details>
+  <summary>Telegram</summary>
+  
 `Telegram Public Channel`
 
 [Channel](https://t.me/mfs_nft_music)
@@ -46,12 +64,13 @@ I made a monorepo of all of the repositories in all programming languages. You s
 
 [Invite link of group](https://t.me/+3wIB03SJbnMzODhk)
 
-
+</details>
 
 ## Check the project out 
 
-**Notice** 
-> Currently, we do not have any kind of programme for managing and analysing the team's performance. Basically, I do not believe in scrum frameworks or any kind of methodology. This work is customised with our agreement, but it is an obligation cos it would be the perfect dashboard for the project to show off to investors, for example. It also gives us a better perspective on discipline.
+???+ tip
+
+    Currently, we do not have any kind of programme for managing and analysing the team's performance. Basically, I do not believe in scrum frameworks or any kind of methodology. This work is customised with our agreement, but it is an obligation cos it would be the perfect dashboard for the project to show off to investors, for example. It also gives us a better perspective on discipline.
 
 Pls open the project section on Github. I entered some sample data. You can put your iteration in, and after that, you will know:
 
@@ -61,11 +80,17 @@ Pls open the project section on Github. I entered some sample data. You can put 
 
 `Efficiency` column or `Positive Prediction` means:
 `How much would be your estimation to complete the next iteration based on the current iteration?`
-> e.g., I am in iteration no. 1 (first week). After spending 4 or 7 days, I would have found that the tasks were completed easily and quickly. So, in this situation, I must set `Efficiency` to `25`.
 
-The `Performance` column or `Aggregated Result as a Kind of the Postdiction` means:
+!!! info inline end "Example"
+
+    I am in iteration no. 1 (first week). After spending 4 or 7 days, I would have found that the tasks were completed easily and quickly. So, in this situation, I must set `Efficiency` to `25`.
+
+`Performance` column or `Aggregated Result as a Kind of the Postdiction` means:
 `How much would your estimation be to keep going with the current iteration based on all of the previous iterations?`
-> e.g., I am in iteration no. 3 (3rd week). After spending 4 or 7 days, I would have found that the tasks were completed easily and quickly. So, in this situation, I must set `Performance` to `1` cos my performance has not decreased. But if I had found that my performance decreased, I would have adjusted `Performance` to `0.25`, for example.
+
+!!! info inline end "Example"
+
+    I am in iteration no. 3 (3rd week). After spending 4 or 7 days, I would have found that the tasks were completed easily and quickly. So, in this situation, I must set `Performance` to `1` cos my performance has not decreased. But if I had found that my performance decreased, I would have adjusted `Performance` to `0.25`, for example.
 
 ## Linkedin
 Follow AramisTech on the linkedin(https://linkedin.com/company/aramistech)
@@ -78,15 +103,13 @@ Leave your github account in the Discord public channel to add contributors to t
 
 ## Contact
 
-Pls send your image and one paragraph description to the following email.
+??? quote
 
-*If you have any questions, please let me know and do not hesitate to contact me.*
-
-From now on, I can only read your messages in Discord, and as an alternative option, I am about to do it by email.
-
-[Arman Riazi (Discord)](armanriyazi.github.io#5111)
-
-> *armanriyazi.github.io@gmail.com*
+    Pls send your image and one paragraph description to the following email.
+    *If you have any questions, please let me know and do not hesitate to contact me.*
+    From now on, I can only read your messages in Discord, and as an alternative option, I am about to do it by email.
+    [Arman Riazi (Discord)](armanriyazi.github.io#5111)
+    > *armanriyazi.github.io@gmail.com*
 
 ---
 
