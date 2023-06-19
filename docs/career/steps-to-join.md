@@ -16,9 +16,8 @@ I made a monorepo of all of the repositories in all programming languages. You s
 
 !!! info
 
-  Based on your niched job or desired job, clickOn one of Discord channels although you can join to all public channels but you can only join the a private channel which we will send you a link.
-
-> After joining the group, I am going to send an invitation link for joining the private channel P2G. So, Pls do not forget to accept the invitation. We are going to map up about project on Discord private channel. So, we do not speak about project in Github,Gist, or via email, so on.
+    Based on your niched job or desired job, clickOn one of Discord channels although you can join to all public channels but you can only join the a private channel which we will send you a link.
+    > After joining the group, I am going to send an invitation link for joining the private channel P2G. So, Pls do not forget to accept the invitation. We are going to map up about project on Discord private channel. So, we do not speak about project in Github,Gist, or via email, so on.
 
 `Discord-NFT-Music-UI`
   [Invitation Link](https://discord.gg/4pj3UddZ)
@@ -40,11 +39,12 @@ I made a monorepo of all of the repositories in all programming languages. You s
   [Discord public channel](https://discordapp.com/channels/1119077618835259462/1120441029544398988)
   
 `Telegram Public Channel`
-    [Channel](https://t.me/mfs_nft_music)    
-    [Invite link of channel](https://t.me/+bZwYECRJCNBiNmFk)    
+  [Channel](https://t.me/mfs_nft_music)        
+  [Invite link of channel](https://t.me/+bZwYECRJCNBiNmFk)    
+    
 `Telegram Public Group`    
-    [Group](https://t.me/public_mfs_nft_music)    
-    [Invite link of group](https://t.me/+3wIB03SJbnMzODhk)  
+  [Group](https://t.me/public_mfs_nft_music)        
+  [Invite link of group](https://t.me/+3wIB03SJbnMzODhk)  
 
 ## Check the project out 
 
@@ -61,19 +61,19 @@ Pls open the project section on Github. I entered some sample data. You can put 
 `Efficiency` column or `Positive Prediction` means:
 `How much would be your estimation to complete the next iteration based on the current iteration?`
 
-!!! info "Example"
+???+ info "Example of Efficiency"
 
     I am in iteration no. 1 (first week). After spending 4 or 7 days, I would have found that the tasks were completed easily and quickly. So, in this situation, I must set `Efficiency` to `25`.
 
 `Performance` column or `Aggregated Result as a Kind of the Postdiction` means:
 `How much would your estimation be to keep going with the current iteration based on all of the previous iterations?`
 
-!!! info "Example"
+???+ info "Example of Performance"
 
     I am in iteration no. 3 (third week). After spending 4 or 7 days, I would have found that the tasks were completed easily and quickly. So, in this situation, I must set `Performance` to `1` cos my performance has not decreased. But if I had found that my performance decreased, I would have adjusted `Performance` to `0.25`, for example.
 
 ## Linkedin
-Follow AramisTech on the linkedin(https://linkedin.com/company/aramistech)
+[Follow AramisTech on linkedin](https://linkedin.com/company/aramistech)
 
 ## Fork the repository
 Pls add a branch with your full name. When you think you've finished your feature or passed all of your unit tests, then you'd better send the command of the push request with the tag format of `name of the feature-letters of month (e.g., June)-no.iteration-no.order (e.g., 1 or 2...n)`
