@@ -4,6 +4,8 @@
 Repositories are temporary on my Github. After we reach alpha targets, we are going to move projects to the new devops infrastructure.
 I made a monorepo of all of the repositories in all programming languages. You should pay attention to and be aware of configuration files in the root workspace.
 
+![FiveSteps to join Army](../assetes/five-step.JPG)
+
 ## Agreement
 
 - [x] I accepted to work with AramisTech in terms of the [manifest](https://aramis-tech.github.io/manifesto/manifesto_for_employment)
