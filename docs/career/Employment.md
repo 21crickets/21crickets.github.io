@@ -27,11 +27,11 @@ title: "Recruitment"
 
 ??? warning
 
-  **1. Percent of staked value of ASP belongs to the platform, and who are in the army do not have any kind of rights to tokens or company, provided the situation is only a chance to give privileges to Knight(Main chart of company) or taking stacked tokens by the platform.**
-  **2. We only emphasize on activity(failed or success) and every kind of activity has gotten a reward.**
-  **3. We carried out our proposed token distribution with all programs (as pointed out) for every kind of registering and formal correcpondace with voucher innovations/research instituations. So it is not possible for us to ignore our plan and strategies.**
+    **1. Percent of staked value of ASP belongs to the platform, and who are in the army do not have any kind of rights to tokens or company, provided the situation is only a chance to give privileges to Knight(Main chart of company) or taking stacked tokens by the platform.**
+    **2. We only emphasize on activity(failed or success) and every kind of activity has gotten a reward.**
+    **3. We carried out our proposed token distribution with all programs (as pointed out) for every kind of registering and formal correcpondace with voucher innovations/research instituations. So it is not possible for us to ignore our plan and strategies.**
 
-!!!+ success
+!!! success
   
-  *Final Step*  After being accepted, you will join as a full-time knight. You will be one of our formal co-worker, and we will utilize 17-19% of shares alongside so many other benefits that  recruiters will speak about it during the final interview. So, in all process and steps, we will have one or two interviews with you because most of your success depends on your activity, and reports that we will be given.
+    *Final Step*  After being accepted, you will join as a full-time knight. You will be one of our formal co-worker, and we will utilize 17-19% of shares alongside so many other benefits that  recruiters will speak about it during the final interview. So, in all process and steps, we will have one or two interviews with you because most of your success depends on your activity, and reports that we will be given.
 
