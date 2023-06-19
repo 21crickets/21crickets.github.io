@@ -17,10 +17,19 @@ title: "Recuiter"
 
 5.  We will review your work after one sprint or slot (viz., 2-4 iterations). Every iteration is equal to one week.
 
-6.  After being accepted, we have to have an interview. If you are not being accepted there are rewards. e.g., you are a UI/UX (or a developer) and you joint our community and you helped to increase our followers by being your existence or maybe you had done a design for advertisements or website. However, you would not have joined the army. So, for these candidates there are some promotion and reward. They can show off their work as a internship experience on their CV with reputation of our brand. We have discretion for using their work in the future and you are still in our network; however, they will take a portaion of the "Army Staking Program (ASP)". We will have staked 2% of our token(MFS). ASPs mechanism will be locked on our platform or mightbe in a third party. Finally, discarded candidates of army will have earned a profit by distribution of program.
+6.  After being accepted, we have to have an interview. If you are not being accepted there are rewards. e.g., you are a UI/UX (or a developer) and you joint our community and you helped to increase our followers by being your existence or maybe you had done a design for advertisements or website. However, you would not have joined the army. So, for these candidates there are some promotion and reward. They can show off their work as a internship experience on their CV with reputation of our brand. We have discretion for using their work in the future and you are still in our network; however, they will take a portaion of the `Army Staking Program (ASP)`. We will have staked 2% of our token(MFS). ASPs mechanism will be locked on our platform or mightbe in a third party. Finally, discarded candidates of army will have earned a profit by distribution of program.
+
+---
+
 `Notice`
+
 For example, we have 1300 candidates in our army currently; you'd better know there is a limitation ASP. It must not exceed of 300 candidates. We may have 1000 candidate in the army, and they were going to do. It is clear for us when they have not done any tasks on Github. So, we only distribute profits to active users who had done at least one successful task or at least 2 failed task. So, we provide rewards in spite of the fact that he/she failed to do a task successfully in the opinion of the admisistrator.
+
 ** We only emphasize on activity(failed or success) and every kind of activity has gotten a reward. **
+
+** We carried out our proposed token distribution with all programs (as pointed out) for every kind of registering and formal correcpondace with voucher innovations/research instituations. So it is not possible for us to ignore our plan and strategies. **
+
+---
 
  8.  After being accepted, you will join as a full-time knight. You will be one of our formal co-worker, and we will utilize 17-19% of shares alongside so many other benefits that  recruiters will speak about it during the final interview. So, in all process and steps, we will have one or two interviews with you because most of your success depends on your activity, and reports that we will be given.
 
