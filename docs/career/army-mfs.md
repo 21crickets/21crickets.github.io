@@ -18,53 +18,21 @@ They are engaged in the development of the platform in different positions. Some
 
 
 
-<figure markdown>
+| Method      | Description                          |
+| ----------- | ------------------------------------ |
+| <figure markdown>
 ![Token distribution](https://avatars.githubusercontent.com/u/63037202?v=4){ width="150" height="200" align=center }
 <figcaption>Ahmed Khalil</figcaption>
-</figure>
-
-??? info "Ahmed Khalil"
+</figure>       | ??? info "Ahmed Khalil"
 
     - [x]  M. ED, EMBA, M.Sc Digital Currency
     - [x]  🤝
+  |
+| `PUT`       | :material-check-all: Update resource |
+| `DELETE`    | :material-close:     Delete resource |
 
 
 
-## ok
 
-<div class="grid cards" markdown>
 
--   :material-clock-fast:{ .lg .middle } __Set up in 5 minutes__
 
-    ---
-
-    Install [`mkdocs-material`](#) with [`pip`](#) and get up
-    and running in minutes
-
-    [:octicons-arrow-right-24: Getting started](#)
-
--   :fontawesome-brands-markdown:{ .lg .middle } __It's just Markdown__
-
-    ---
-
-    Focus on your content and generate a responsive and searchable static site
-
-    [:octicons-arrow-right-24: Reference](#)
-
--   :material-format-font:{ .lg .middle } __Made to measure__
-
-    ---
-
-    Change the colors, fonts, language, icons, logo and more with a few lines
-
-    [:octicons-arrow-right-24: Customization](#)
-
--   :material-scale-balance:{ .lg .middle } __Open Source, MIT__
-
-    ---
-
-    Material for MkDocs is licensed under MIT and available on [GitHub]
-
-    [:octicons-arrow-right-24: License](#)
-
-</div>
