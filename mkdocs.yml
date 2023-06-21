@@ -12,9 +12,9 @@ nav:
     - 'Join Us':
         - 'Recuiter': './career/Employment/' 
     - 'MFS Army':
-        - 'MFS Army': './career/army-mfs/'         
+        - 'MFS Army': './Chart/Chart'         
     - 'Superstars':
-        - 'Singers': './Actors/Superstars.md'                 
+        - 'Singers': './Superstars'                 
 theme:
   name: material
   logo: assets/logo.JPG
