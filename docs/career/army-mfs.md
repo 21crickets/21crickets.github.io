@@ -30,16 +30,18 @@ They are engaged in the development of the platform in different positions. Some
 
 
 
+## ok
 
 <div class="grid cards" markdown>
 
--   🤝 __Ahmed Khalil__
+-   :material-clock-fast:{ .lg .middle } __Set up in 5 minutes__
 
     ---
 
-    M. ED, EMBA, M.Sc Digital Currency
+    Install [`mkdocs-material`](#) with [`pip`](#) and get up
+    and running in minutes
 
-    [:octicons-arrow-right-24: AboutMe](#)
+    [:octicons-arrow-right-24: Getting started](#)
 
 -   :fontawesome-brands-markdown:{ .lg .middle } __It's just Markdown__
 
