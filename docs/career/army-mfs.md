@@ -17,7 +17,6 @@ They are engaged in the development of the platform in different positions. Some
 ---
 
 
-=== "Army"
 
 <figure markdown>
 ![Token distribution](https://avatars.githubusercontent.com/u/63037202?v=4){ width="150" height="200" align=center }
@@ -29,6 +28,46 @@ They are engaged in the development of the platform in different positions. Some
     - [x]  M. ED, EMBA, M.Sc Digital Currency
     - [x]  🤝
 
-=== "Founder"
 
-    Arman
+
+
+<div class="grid cards" markdown>
+
+-   🤝 __Ahmed Khalil__
+
+    ---
+
+    <figure markdown>
+    ![Token distribution](https://avatars.githubusercontent.com/u/63037202?v=4){ width="150" height="200" align=center }
+    <figcaption>Ahmed Khalil</figcaption>
+    </figure>
+    
+    M. ED, EMBA, M.Sc Digital Currency
+
+    [:octicons-arrow-right-24: AboutMe](#)
+
+-   :fontawesome-brands-markdown:{ .lg .middle } __It's just Markdown__
+
+    ---
+
+    Focus on your content and generate a responsive and searchable static site
+
+    [:octicons-arrow-right-24: Reference](#)
+
+-   :material-format-font:{ .lg .middle } __Made to measure__
+
+    ---
+
+    Change the colors, fonts, language, icons, logo and more with a few lines
+
+    [:octicons-arrow-right-24: Customization](#)
+
+-   :material-scale-balance:{ .lg .middle } __Open Source, MIT__
+
+    ---
+
+    Material for MkDocs is licensed under MIT and available on [GitHub]
+
+    [:octicons-arrow-right-24: License](#)
+
+</div>
