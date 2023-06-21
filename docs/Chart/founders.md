@@ -5,7 +5,6 @@ author: "Arman Riazi"
 title: "Co-Founders of NFT Music Platform"
 ---
 
-!!!+ info
-
-We are going to leave a direct link to our new URL. It will have used for client side.
-It is in invite process. We'll back comming soon...
+|    Founders   |             Description              |
+| ------------------- | ------------------------------------ |
+| <figure markdown> ![Arman Riazi](https://avatars.githubusercontent.com/u/12433618?v=4){ width="100" height="150" align=center }<figcaption>Arman Riazi</figcaption></figure> | Web Developer, Blockchain Specialist, M.Sc. 🤝🤴🏻🦹‍♂️ |

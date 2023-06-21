@@ -17,18 +17,8 @@ They are engaged in the development of the platform in different positions. Some
 ---
 
 
+[Co-Founders](./founders.md)
 
-| Method      | Description                          |
-| ----------- | ------------------------------------ |
-| <figure markdown> ![Token distribution](https://avatars.githubusercontent.com/u/63037202?v=4){ width="150" height="200" align=center }<figcaption>Ahmed Khalil</figcaption></figure> | 🤝 |
-| `PUT`       | :material-check-all: Update resource |
-| `DELETE`    | :material-close:     Delete resource |
-
-
-
+[Knight](./knight.md)
 
 [Army](./army.md)
-
-[Founders](./founders.md)
-
-[knight](./knight.md)

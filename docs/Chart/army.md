@@ -5,7 +5,8 @@ author: "Arman Riazi"
 title: "ARMY of NFT Music Platform"
 ---
 
-!!!+ info
+|    Member of Army   |             Description              |
+| ------------------- | ------------------------------------ |
+| <figure markdown> ![Ahmed Khalil](https://avatars.githubusercontent.com/u/63037202?v=4){ width="100" height="150" align=center }<figcaption>Ahmed Khalil</figcaption></figure> | M. ED, EMBA, M.Sc Digital Currency. 🤝 |
+| <figure markdown> ![Token distribution](https://avatars.githubusercontent.com/u/40033608?v=4){ width="100" height="150" align=center }<figcaption>Faith Roberts</figcaption></figure> | FrontEnd Developer. 🤝 |
 
-We are going to leave a direct link to our new URL. It will have used for client side.
-It is in invite process. We'll back comming soon...
