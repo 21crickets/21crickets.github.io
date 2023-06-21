@@ -11,7 +11,7 @@ They are engaged in the development of the platform in different positions. Some
 
 - 🤝, A person is member of orchestra as a Volunteer.
 - 🤑, An expert of orchestra has rights of ASP.
-- 🦹 🦹‍♂️, An expert joined the team's main chart as an Knight/Co-worker.
+- 🦹/🦹‍♂️, An expert joined the team's main chart as an Knight/Co-worker.
 - 🤴🏻/👸, Co-Founders/Conductor
 
 ---
@@ -37,11 +37,6 @@ They are engaged in the development of the platform in different positions. Some
 
     ---
 
-    <figure markdown>
-    ![Token distribution](https://avatars.githubusercontent.com/u/63037202?v=4){ width="150" height="200" align=center }
-    <figcaption>Ahmed Khalil</figcaption>
-    </figure>
-    
     M. ED, EMBA, M.Sc Digital Currency
 
     [:octicons-arrow-right-24: AboutMe](#)
