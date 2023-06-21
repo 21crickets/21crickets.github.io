@@ -2,7 +2,7 @@
 keywords:  MFS ArmanRiazi Music NFT Blockchain Career Employment Job Superstar
 feature:  superstart
 author: "Arman Riazi"
-title: "Famous Singers"
+title: "Experts'Home"
 ---
 
 **Our army is like an orchestra. Professionals who are in step with technology.**
@@ -20,12 +20,7 @@ They are engaged in the development of the platform in different positions. Some
 
 | Method      | Description                          |
 | ----------- | ------------------------------------ |
-| <figure markdown>
-![Token distribution](https://avatars.githubusercontent.com/u/63037202?v=4){ width="150" height="200" align=center }
-<figcaption>Ahmed Khalil</figcaption>
-</figure> | 
-- [x]  M. ED, EMBA, M.Sc Digital Currency
-- [x]  🤝 |
+| <figure markdown> ![Token distribution](https://avatars.githubusercontent.com/u/63037202?v=4){ width="150" height="200" align=center }<figcaption>Ahmed Khalil</figcaption></figure> | 🤝 |
 | `PUT`       | :material-check-all: Update resource |
 | `DELETE`    | :material-close:     Delete resource |
 
