@@ -9,6 +9,9 @@ title: "Army of MFS-NFT Music Platform"
 
 They are engaged in the development of the platform in different positions. Some joined the orchestra, and some joined the team's main chart. The status of each expert is indicated by the status bar. Who are members of the orchestra and have activities are identified with ASP status, which refers to the [Army Staking Program (ASP)](../career/Employment.md).
 
+- :face-saluting: means, a person is member of orchestra
+- :fa-light fa-face-tongue-money:, a expert has rights of ASP
+
 <figure markdown>
 ![Token distribution](https://avatars.githubusercontent.com/u/63037202?v=4){ width="150" height="200" align=center }
 <figcaption>Ahmed Khalil</figcaption>
@@ -16,6 +19,7 @@ They are engaged in the development of the platform in different positions. Some
 
 ??? info "Ahmed Khalil"
 
-- [x]  M. ED, EMBA, M.Sc Digital Currency
-- [x] :face-saluting: 
-- [] :fa-light fa-face-tongue-money:
+  - [x]  M. ED, EMBA, M.Sc Digital Currency
+  - [x] :face-saluting: 
+  - [] :fa-face-tongue-money:
+  - [] :fontawesome-regular-face-laugh-wink:
