@@ -6,10 +6,10 @@ title: "Forms"
 ---
 
 
-<figure markdown>
+<!-- <figure markdown>
 ![Social Media](../assets/social-media.png){ width="600" height="400" align=center }
 <figcaption>Social Media</figcaption>
-</figure>
+</figure> -->
 
 - [Partnership](./Form_partnership.md)
 

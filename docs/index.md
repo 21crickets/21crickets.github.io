@@ -12,12 +12,12 @@ title: "Index"
 ---
 
 <figure markdown>
-![DJ](./assets/music-dj.jpeg){ width="400" height="400" align=left }
-<figcaption>DJ</figcaption>
+![DJ Music](./assets/music-dj.jpeg){ width="400" height="400" align=left }
+<figcaption>DJ Music</figcaption>
 </figure>
 <figure markdown>
-![DJ](./assets/music-singularity.JPG){ width="400" height="400" align=right }
-<figcaption>DJ</figcaption>
+![Unique Music Platform](./assets/music-singularity.JPG){ width="400" height="400" align=right }
+<figcaption>Unique Music Platform</figcaption>
 </figure>
 
 ---

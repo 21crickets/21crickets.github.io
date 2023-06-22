@@ -5,6 +5,11 @@ author: "Arman Riazi"
 title: "Public Channels Activities"
 ---
 
+<!-- <figure markdown>
+![social-media](../assets/social-media.png){ width="500" height="300" align=center }
+<figcaption>Social Media</figcaption>
+</figure> -->
+
 `Discord-NFT-Music-UI`
   [Invitation Link](https://discord.gg/4pj3UddZ)
   
