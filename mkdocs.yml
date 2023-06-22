@@ -14,13 +14,13 @@ nav:
     - 'Army':
         - 'Army': './chart/army'         
     - 'Report & News':
-        - 'ReportNews': './report-news/report_news_list'
+        - 'ReportNews': './reportnews/report_news_list'
     - 'Blog':        
         - 'Blog': './blog/Blog'                    
     - 'Forms':
         - 'Forms': './forms/Forms/'                    
     - 'Social Media':
-        - 'Social Media': './socialmedia/channels/'         
+        - 'Social Media': './social/channels/'         
     - 'Superstars':
         - 'Superstars': './other/Superstars'                 
 theme:
