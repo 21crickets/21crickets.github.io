@@ -1,8 +1,6 @@
 # Copyright (c) 2023 ArmanRiazi
 
-./docs/All.md
-./docs/Technical_Paper.md
-./docs/Whitepaper.md
+/PAPERS_PRV
 
 # Dependencies
 /node_modules

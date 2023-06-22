@@ -6,7 +6,7 @@ title: "Blogging"
 ---
 
 <figure markdown>
-![Cricket](../assets/ad-architecture.JPG){ width="600" height="300" align=center }
+![Cricket](../assets/ad-architecture.JPG){ width="800" height="300" align=center }
 <figcaption>As merry as a mars cricket</figcaption>
 </figure>
 

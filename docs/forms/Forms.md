@@ -6,10 +6,10 @@ title: "Forms"
 ---
 
 
-<figure markdown>
-![Hand in Hand](../assets/aramistech.jpg){ width="800" height="150" align=center }
+<!-- <figure markdown>
+![Hand in Hand](../assets/aramistech.jpg){ width="500" height="50" align=center }
 <figcaption>Hand in Hand</figcaption>
-</figure>
+</figure> -->
 
 - [Partnership](./Form_partnership.md)
 

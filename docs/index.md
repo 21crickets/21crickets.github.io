@@ -12,8 +12,8 @@ title: "Index"
 ---
 
 <figure markdown>
-![Unique Music Platform](./assets/music-singular.JPG){ width="400" height="300" align=right }
-![DJ Music](./assets/music-dj.jpeg){ width="400" height="500" align=left }
+![Unique Music Platform](./assets/music-singular.JPG){ width="400" height="150" align=right }
+![DJ Music](./assets/music-dj.jpeg){ width="400" height="600" align=left }
 </figure>
 
 ---
