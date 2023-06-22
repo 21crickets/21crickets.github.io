@@ -20,11 +20,33 @@ They are engaged in the development of the platform in different positions. Some
 
 <details>
   <summary>Co-Founders</summary>
-<img src="https://aramis-tech.github.io/assets/me.jpg" width="100" height="150"  class="center"/><blockquote>Arman Riazi.Web Developer, Blockchain Specialist, M.Sc.💌armanriyazi.github.io#5111 🤝🤴🏻🦹‍♂️ </blockquote>
+    <div class="row">
+    <div class="column">
+    <img src="https://aramis-tech.github.io/assets/me.jpg" width="100" height="150"  class="center"/><blockquote>Arman Riazi.Web Developer, Blockchain Specialist, M.Sc.💌armanriyazi.github.io#5111 🤝🤴🏻🦹‍♂️ </blockquote>
+    </div>
+    <div class="column">
+        <img src="https://aramis-tech.github.io/assets/add-image.png" alt="Add yourself here" width="100" height="150"  class="center"/>
+    </div>
+    <div class="column">
+        <img src="https://aramis-tech.github.io/assets/add-image.png" alt="Add yourself here" width="100" height="150"  class="center"/>
+    </div>
+  </div>
 </details>
 <details>
-  <summary>Knight</summary>
+  <summary>Knights</summary>  
+    <div class="row">
+    <div class="column">
+    <img src="https://aramis-tech.github.io/assets/add-image.png" alt="Add yourself here" width="100" height="150"  class="center"/>
+    </div>
+    <div class="column">
+        <img src="https://aramis-tech.github.io/assets/add-image.png" alt="Add yourself here" width="100" height="150"  class="center"/>
+    </div>
+    <div class="column">
+        <img src="https://aramis-tech.github.io/assets/add-image.png" alt="Add yourself here" width="100" height="150"  class="center"/>
+    </div>
+  </div>
 </details>
+
 <details>
   <summary>Army</summary>    
   <div class="row">
