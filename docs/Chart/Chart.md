@@ -31,6 +31,15 @@ They are engaged in the development of the platform in different positions. Some
 
 <details>
   <summary>Army</summary>    
-<img src="https://avatars.githubusercontent.com/u/63037202?v=4" width="100" height="150"  class="center"/><blockquote>Ahmed Khalil.M. ED, EMBA, M.Sc Digital Currency 🤝 </blockquote>
-<img src="https://avatars.githubusercontent.com/u/40033608?v=4" width="100" height="150"  class="center"/><blockquote>Faith Roberts.FrontEnd Developer.💌faytey7 🤝</blockquote>
+  <div class="row">
+    <div class="column">
+    <img src="https://avatars.githubusercontent.com/u/63037202?v=4" width="100" height="150"  class="center"/><blockquote>Ahmed Khalil.M. ED, EMBA, M.Sc Digital Currency 🤝 </blockquote>
+    </div>
+    <div class="column">
+        <img src="https://avatars.githubusercontent.com/u/40033608?v=4" width="100" height="150"  class="center"/><blockquote>Faith Roberts.FrontEnd Developer.💌faytey7 🤝</blockquote>
+    </div>
+    <div class="column">
+        <img src="../assets/add-image.jpg" alt="Add yourself here" width="100" height="150"  class="center"/><blockquote>Add yourself here</blockquote>
+    </div>
+  </div>
 </details>
