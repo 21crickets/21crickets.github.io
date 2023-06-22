@@ -6,7 +6,7 @@ title: "Famous Singers"
 ---
 
 <figure markdown>
-![Fandom](../assets/fandom.jpg){ width="600" height="400" align=center }
+![Fandom](../assets/fandom.jpg){ width="800" height="400" align=center }
 <figcaption>Fandom</figcaption>
 </figure>
 

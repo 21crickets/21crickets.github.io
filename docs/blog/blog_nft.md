@@ -14,6 +14,7 @@ The platform also has other innovative features: Artists can take out DeFi loans
 How about Music NFT Videos, anyways?
 Perhaps because it’s a more capital-intensive venture than other aspects of music NFTs, there aren’t many music video NFT projects[^2].
 
+
 [^1]: DeYoung, J. (2023, January 11). Music NFTs are helping independent creators monetize and build a fanbase. Cointelegraph. https://cointelegraph.com/news/music-nfts-are-helping-independent-creators-monetize-and-build-a-fanbase
 
 [^2]: What you probably don’t know about Music NFTs!! (2022, April 30). CryptoStars. https://blog.cryptostars.is/what-you-probably-dont-know-about-music-nfts-fe7504d5e1
