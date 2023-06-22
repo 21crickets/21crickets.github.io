@@ -4,15 +4,15 @@ site_name: AramisTech
 repo_url: https://github.com/armanriazi
 nav:    
     - 'Home':
-        - 'Index': './'   
-    - 'Forms':
-        - 'Forms': './forms/Forms'                                                   
+        - 'Index': './'                                          
     - 'Manifesti':
         - 'Manifesto': './manifesto/Manifesto'        
     - 'Join Us':
         - 'Recuiter': './career/Employment/' 
     - 'MFS Army':
         - 'MFS Army': './Chart/Chart'         
+    - 'Forms':
+        - 'Forms': './forms/Forms'                    
     - 'Superstars':
         - 'Singers': './Superstars'                 
 theme:
