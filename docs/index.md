@@ -11,7 +11,14 @@ title: "Index"
 
 ---
 
-![knowledge Graph](./assets/foam.JPG){ width="800" height="600" align=center }
+<figure markdown>
+![DJ](./assets/music-dj.jpeg){ width="400" height="400" align=left }
+<figcaption>DJ</figcaption>
+</figure>
+<figure markdown>
+![DJ](./assets/music-singularity.JPG){ width="400" height="400" align=right }
+<figcaption>DJ</figcaption>
+</figure>
 
 ---
 
@@ -57,6 +64,13 @@ title: "Index"
 
 [Author](https://armanriazi.github.io/services)
 
+
+---
+
+<figure markdown>
+![Knowledge Graph](./assets/foam.JPG){ width="800" height="600" align=center }
+<figcaption>Knowledge Graph</figcaption>
+</figure>
 
 ---
 

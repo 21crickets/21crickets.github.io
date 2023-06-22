@@ -25,7 +25,7 @@ nav:
         - 'Superstars': './other/Superstars'                 
 theme:
   name: material
-  logo: assets/logo.JPG
+  logo: assets/logo.jpg
   favicon: assets/favicon.ico
   features:    
   - search.suggest
