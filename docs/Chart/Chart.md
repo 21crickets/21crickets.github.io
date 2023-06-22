@@ -17,10 +17,11 @@ They are engaged in the development of the platform in different positions. Some
 ---
 
 
+<iframe src="https://discordapp.com/widget?id=1119077618835259462&theme=dark" width="400" height="400" allowtransparency="true" frameborder="1" sandbox="allow-popups allow-popups-to-escape-sandbox allow-same-origin allow-scripts"></iframe>
 
 <details>
   <summary>Co-Founders</summary>
-<figure markdown> ![Arman Riazi](../assets/me.JPG){ width="100" height="150" align=center }<figcaption>Arman Riazi</figcaption></figure> <blockquote>Web Developer, Blockchain Specialist, M.Sc. 🤝🤴🏻🦹‍♂️ </blockquote>
+<img src="../assets/me.JPG" align="center" width="100" height="150"/></blockquote>Arman Riazi.Web Developer, Blockchain Specialist, M.Sc 🤝🤴🏻🦹‍♂️ </blockquote>
 </details>
 
 <details>
@@ -29,6 +30,6 @@ They are engaged in the development of the platform in different positions. Some
 
 <details>
   <summary>Army</summary>    
-<figure markdown> ![Ahmed Khalil](https://avatars.githubusercontent.com/u/63037202?v=4){ width="100" height="150" align=center }<figcaption>Ahmed Khalil</figcaption></figure><blockquote>M. ED, EMBA, M.Sc Digital Currency. 🤝 </blockquote>
-<figure markdown> ![Token distribution](https://avatars.githubusercontent.com/u/40033608?v=4){ width="100" height="150" align=center }<figcaption>Faith Roberts</figcaption></figure><blockquote> FrontEnd Developer. 🤝</blockquote>
+<img src="https://avatars.githubusercontent.com/u/63037202?v=4" width="100" height="150" align="center"/><blockquote>Ahmed Khalil.M. ED, EMBA, M.Sc Digital Currency 🤝 </blockquote>
+<img src="https://avatars.githubusercontent.com/u/40033608?v=4" width="100" height="150" align="center"/><blockquote>Faith Roberts.FrontEnd Developer 🤝</blockquote>
 </details>
