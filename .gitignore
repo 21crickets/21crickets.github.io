@@ -1,6 +1,8 @@
 # Copyright (c) 2023 ArmanRiazi
 
-/PAPERS_PRV
+!docs/All.md
+!docs/Technical_Paper.md
+!docs/Whitepaper.md
 
 # Dependencies
 /node_modules
@@ -10,7 +12,7 @@
 
 #  Foam
 /.foam
-.foam
+!*/.foam
 # Build files
 /build
 /MANIFEST
