@@ -638,7 +638,7 @@ The decision is made to build an on-chain marketplace PoC to facilitate safe tra
 - [x] Project planning
 - [x] White and yellow paper
 - [ ] Private fund-rising
-- [ ] Team up
+- [x] Team up
 - [ ] Relocating to settle down 
 - [ ] Providing infrastructure for remote working
 

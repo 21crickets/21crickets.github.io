@@ -11,16 +11,17 @@ nav:
         - 'Manifesto': './manifesto/Manifesto'        
     - 'Join Us':
         - 'Recuiter': './career/Career/' 
-    - 'Report&News':
-        - 'MFS Army': './report-news/ReportNews'
-    - 'Blog':
-        - 'MFS Army': './blog/Blog'                
+    - 'Report&News&Blog':
+        - 'ReportNews': './report-news/ReportNews'
+        - 'Blog': './blog/Blog'                    
     - 'Army':
-        - 'MFS Army': './chart/Chart'         
+        - 'Chart': './chart/Chart'         
     - 'Forms':
         - 'Forms': './forms/Forms'                    
+    - 'SocialMedia':
+        - 'Socialmedia': './socialmedia/Socialmedia'         
     - 'Superstars':
-        - 'Singers': './other/Superstars'                 
+        - 'Superstars': './other/Superstars'                 
 theme:
   name: material
   logo: assets/logo.JPG

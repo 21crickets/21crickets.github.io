@@ -7,7 +7,7 @@ title: "Roadmap & Activities"
 
 [Views of our project management](https://github.com/armanriazi?tab=projects)
 
-[Public Social media](../Socialmedia/Socialmedia)
+[Public Social media](../socialmedia/Socialmedia)
 
 # Roadmap
 

@@ -7,6 +7,8 @@ title: "News & Report"
 
 [TOC]
 
+---
+
 # News
 ## 06/18/2023
 [Posted jobs on Linkedin](https://linkedin.com/company/aramistech)

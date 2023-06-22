@@ -552,7 +552,7 @@ The research and development in MFS will be a continuous process with a result o
 - [x] Project planning
 - [x] White and yellow paper
 - [ ] Private fund-rising
-- [ ] Team up
+- [x] Team up
 - [ ] Relocating to settle down 
 - [ ] Providing infrastructure for remote working
 
