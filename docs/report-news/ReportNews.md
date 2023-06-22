@@ -10,12 +10,14 @@ title: "News & Report"
 ---
 
 # News
-## 06/18/2023
-[Posted jobs on Linkedin](https://linkedin.com/company/aramistech)
+## 06/2023
+### Posted jobs on Linkedin
+[Posted jobs on Linkedin-06/18/2023](https://linkedin.com/company/aramistech)
 
 # Report
-## 06/20/2023
-[Publish our proposal business work](https://www.intechopen.com/)
+## 06/2023
+### Publish our proposal business work
+[Publish our proposal business work-06/20/2023](https://www.intechopen.com/)
 
 <figure markdown>
 ![publish-chapter-intechopen](../assets/publish-chapter-intechopen.JPG){ width="600" height="400" align=center }

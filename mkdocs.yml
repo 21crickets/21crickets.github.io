@@ -12,15 +12,15 @@ nav:
     - 'Join Us':
         - 'Recuiter': './career/Career/' 
     - 'Report&News':
-        - 'ReportNews': './report-news/ReportNews'
+        - 'ReportNews': './report-news/ReportNews/'
     - 'Blog':        
         - 'Blog': './blog/Blog'                    
     - 'Chart':
-        - 'Army': './chart/Chart'         
+        - 'Army': './chart/Chart/'         
     - 'Forms':
-        - 'Forms': './forms/Forms'                    
+        - 'Forms': './forms/Forms/'                    
     - 'SocialMedia':
-        - 'Socialmedia': './socialmedia/Socialmedia'         
+        - 'Socialmedia': './socialmedia/Socialmedia/'         
     - 'Superstars':
         - 'Superstars': './other/Superstars'                 
 theme:
