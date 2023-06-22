@@ -12,7 +12,7 @@ nav:
     - 'Join Us':
         - 'Recuiter': './career/Career' 
     - 'Army':
-        - 'Army': './chart/army'         
+        - 'Army': './army/ourarmy'         
     - 'Report & News':
         - 'ReportNews': './reportnews/report_news_list'
     - 'Blog':        

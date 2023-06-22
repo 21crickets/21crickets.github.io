@@ -7,6 +7,9 @@
 /venv
 /.venv
 
+#  Foam
+/.foam
+.foam
 # Build files
 /build
 /MANIFEST
