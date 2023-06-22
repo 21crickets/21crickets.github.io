@@ -17,8 +17,24 @@ They are engaged in the development of the platform in different positions. Some
 ---
 
 
-[Co-Founders](./founders.md)
 
-[Knight](./knight.md)
+<details>
+  <summary>Co-Founders</summary>
+  |    Founders   |             Description              |
+| ------------------- | ------------------------------------ |
+| <figure markdown> ![Arman Riazi](../assets/me.JPG){ width="100" height="150" align=center }<figcaption>Arman Riazi</figcaption></figure> | Web Developer, Blockchain Specialist, M.Sc. 🤝🤴🏻🦹‍♂️ |
+</details>
 
-[Army](./army.md)
+<details>
+  <summary>Knight</summary>
+</details>
+
+<details>
+  <summary>Army</summary>
+  |    Member of Army   |             Description              |
+| ------------------- | ------------------------------------ |
+| <figure markdown> ![Ahmed Khalil](https://avatars.githubusercontent.com/u/63037202?v=4){ width="100" height="150" align=center }<figcaption>Ahmed Khalil</figcaption></figure> | M. ED, EMBA, M.Sc Digital Currency. 🤝 |
+| <figure markdown> ![Token distribution](https://avatars.githubusercontent.com/u/40033608?v=4){ width="100" height="150" align=center }<figcaption>Faith Roberts</figcaption></figure> | FrontEnd Developer. 🤝 |
+
+
+</details>
