@@ -11,16 +11,16 @@ nav:
         - 'Manifesto': './manifesto/Manifesto'        
     - 'Join Us':
         - 'Recuiter': './career/Career/' 
-    - 'Report&News':
+    - 'Army':
+        - 'Army': './chart/Chart/'         
+    - 'Report & News':
         - 'ReportNews': './report-news/ReportNews/'
     - 'Blog':        
         - 'Blog': './blog/Blog'                    
-    - 'Chart':
-        - 'Chart': './chart/Chart/'         
     - 'Forms':
         - 'Forms': './forms/Forms/'                    
-    - 'SocialMedia':
-        - 'SocialMedia': './socialmedia/SocialMedia/'         
+    - 'Social Media':
+        - 'Social Media': './socialmedia/SocialMedia/'         
     - 'Superstars':
         - 'Superstars': './other/Superstars'                 
 theme:
@@ -174,10 +174,10 @@ extra:
   social:
     - icon: fontawesome/brands/twitter 
       link: https://twitter.com/aramistech
-      name: Aramistech on Twitter
+      name: AramisTech on Twitter
     - icon: fontawesome/brands/github
       link: https://github.com/armanriazi
     - icon: fontawesome/brands/linkedin
       link: https://linkedin.com/company/aramistech          
 copyright: |
-  &copy; 2023 <a href="https://github.com/armanriazi"  target="_blank" rel="noopener">Arman Riazi</a>
+  &copy; 2023-25 <a href="https://github.com/armanriazi"  target="_blank" rel="noopener">Arman Riazi</a>
