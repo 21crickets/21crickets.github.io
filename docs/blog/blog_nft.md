@@ -1,5 +1,4 @@
 
-
 > What exactly are music NFTs?
 Music NFTs generally fall under two categories. The first is ownership-based NFTs, which “are basically tied to IP [intellectual property] rights and royalties. So, when you buy the NFT, you now are entitled to the accrual of revenue that is produced from Web2 audio streaming platforms like Spotify, Apple Music, etc.”[^1].
 The second is patronage-based NFTs, which do not grant holders any ownership rights but “are collected to support an artist.” According to Levy, “The upside of the NFT is sort of derived from appreciating secondary sales.”[^1].

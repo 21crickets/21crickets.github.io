@@ -11,8 +11,9 @@ nav:
         - 'Manifesto': './manifesto/Manifesto'        
     - 'Join Us':
         - 'Recuiter': './career/Career/' 
-    - 'Report&News&Blog':
+    - 'Report&News':
         - 'ReportNews': './report-news/ReportNews'
+    - 'Blog':        
         - 'Blog': './blog/Blog'                    
     - 'Army':
         - 'Chart': './chart/Chart'         
