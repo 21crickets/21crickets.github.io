@@ -6,7 +6,7 @@ title: "News & Report"
 ---
 
 <figure markdown>
-![Cricket](../assets/aramistech.jpg){ width="800" height="20" align=center }
+![Cricket](../assets/aramistech.jpg){ width="200" height="20" align=center }
 <figcaption>As merry as a mars cricket</figcaption>
 </figure>
 
