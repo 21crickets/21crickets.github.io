@@ -7,11 +7,11 @@ title: "Roadmap & Activities"
 
 
 <figure markdown>
-![DEFI](../assets/defi-stack.JPG){ width="500" height="300" align=center }
+![DEFI](../assets/defi-stack.JPG){ width="500" height="200" align=center }
 </figure>
 
 <figure markdown>
-![DAO](../assets/DAO.JPG){ width="300" height="150" align=center }
+![DAO](../assets/DAO.JPG){ width="500" height="200" align=center }
 </figure>
 
 
