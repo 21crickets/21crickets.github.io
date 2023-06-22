@@ -6,7 +6,7 @@ title: "Roadmap & Activities"
 ---
 
 
-<!-- <figure markdown>
+<figure markdown>
 ![DEFI](../assets/defi-stack.JPG){ width="500" height="300" align=center }
 <figcaption>DEFI</figcaption>
 </figure>
@@ -14,7 +14,7 @@ title: "Roadmap & Activities"
 <figure markdown>
 ![DAO](../assets/defi-stack.JPG){ width="300" height="150" align=center }
 <figcaption>DAO</figcaption>
-</figure> -->
+</figure>
 
 
 - [Views of our project management](https://github.com/armanriazi?tab=projects)

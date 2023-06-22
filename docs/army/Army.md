@@ -19,7 +19,7 @@ They are engaged in the development of the platform in different positions. Some
 
 <figure markdown>
 ![MFS Chart](assets/mfs-chart.JPG){ width="600" height="400" align=center }
-<figcaption>Fig 9. MFS HR-Chart</figcaption>
+<figcaption>Chart HR</figcaption>
 </figure>
 
 

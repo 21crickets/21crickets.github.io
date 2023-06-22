@@ -5,7 +5,11 @@ author: "Arman Riazi"
 title: "Recruitment"
 ---
 
-![Synergy Rule](../assets/synergy.JPG)
+<figure markdown>
+![Synergy Rule](../assets/synergy.JPG){ width="600" height="400" align=center }
+<figcaption>Synergy Rule</figcaption>
+</figure>
+
 
 1.  Study [manifesto](../manifesto/manifesto_for_employment.md)
 

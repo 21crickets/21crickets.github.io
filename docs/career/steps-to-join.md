@@ -4,7 +4,12 @@
 Repositories are temporary on my Github. After we reach alpha targets, we are going to move projects to the new devops infrastructure.
 I made a monorepo of all of the repositories in all programming languages. You should pay attention to and be aware of configuration files in the root workspace.
 
-![FiveSteps to join Army](../assets/five-step.JPG)
+
+<figure markdown>
+![FiveSteps to join Army](../assets/five-step.JPG){ width="600" height="400" align=center }
+<figcaption>FiveSteps to join Army</figcaption>
+</figure>
+
 
 ## Agreement
 
