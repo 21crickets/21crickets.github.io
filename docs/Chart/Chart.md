@@ -18,7 +18,7 @@ They are engaged in the development of the platform in different positions. Some
 ---
 
 
-<iframe src="https://discordapp.com/widget?id=1119077618835259462&theme=dark" width="400" height="400" allowtransparency="true" frameborder="1" sandbox="allow-popups allow-popups-to-escape-sandbox allow-same-origin allow-scripts"></iframe>
+<iframe src="https://discordapp.com/widget?id=1119077618835259462&api=https://discordapp.com/api/guilds/1119077618835259462/widget.json&theme=dark" width="400" height="400" allowtransparency="true" frameborder="1" sandbox="allow-popups allow-popups-to-escape-sandbox allow-same-origin allow-scripts"></iframe>
 
 <details>
   <summary>Co-Founders</summary>
