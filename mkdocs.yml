@@ -10,17 +10,17 @@ nav:
     - 'Manifesto':
         - 'Manifesto': './manifesto/Manifesto'        
     - 'Join Us':
-        - 'Recuiter': './career/Career/' 
+        - 'Recuiter': './career/Career' 
     - 'Army':
-        - 'Army': './chart/Chart/'         
+        - 'Army': './chart/army'         
     - 'Report & News':
-        - 'ReportNews': './report-news/ReportNews/'
+        - 'ReportNews': './report-news/report_news_list'
     - 'Blog':        
         - 'Blog': './blog/Blog'                    
     - 'Forms':
         - 'Forms': './forms/Forms/'                    
     - 'Social Media':
-        - 'Social Media': './socialmedia/SocialMedia/'         
+        - 'Social Media': './socialmedia/channels/'         
     - 'Superstars':
         - 'Superstars': './other/Superstars'                 
 theme:

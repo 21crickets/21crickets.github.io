@@ -17,47 +17,20 @@ They are engaged in the development of the platform in different positions. Some
 
 ---
 
+<figure markdown>
+![MFS Chart](assets/mfs-chart.JPG){ width="600" height="400" align=center }
+<figcaption>Fig 9. MFS HR-Chart</figcaption>
+</figure>
 
-<details>
-  <summary>Co-Founders</summary>
-    <div class="row">
-    <div class="column">
-    <img src="https://aramis-tech.github.io/assets/me.jpg" width="100" height="150"  class="center"/><blockquote>Arman Riazi.Web Developer, Blockchain Specialist, M.Sc.💌armanriyazi.github.io#5111 🤝🤴🏻🦹‍♂️ </blockquote>
-    </div>
-    <div class="column">
-        <img src="https://aramis-tech.github.io/assets/add-image.png" alt="Add yourself here" width="100" height="150"  class="center"/>
-    </div>
-    <div class="column">
-        <img src="https://aramis-tech.github.io/assets/add-image.png" alt="Add yourself here" width="100" height="150"  class="center"/>
-    </div>
-  </div>
-</details>
-<details>
-  <summary>Knights</summary>  
-    <div class="row">
-    <div class="column">
-    <img src="https://aramis-tech.github.io/assets/add-image.png" alt="Add yourself here" width="100" height="150"  class="center"/>
-    </div>
-    <div class="column">
-        <img src="https://aramis-tech.github.io/assets/add-image.png" alt="Add yourself here" width="100" height="150"  class="center"/>
-    </div>
-    <div class="column">
-        <img src="https://aramis-tech.github.io/assets/add-image.png" alt="Add yourself here" width="100" height="150"  class="center"/>
-    </div>
-  </div>
-</details>
 
-<details>
-  <summary>Army</summary>    
-  <div class="row">
-    <div class="column">
-    <img src="https://avatars.githubusercontent.com/u/63037202?v=4" width="100" height="150"  class="center"/><blockquote>AhmedKhalil. EMBA, M.Sc Digital Currency 🤝 </blockquote>
-    </div>
-    <div class="column">
-        <img src="https://avatars.githubusercontent.com/u/40033608?v=4" width="100" height="150"  class="center"/><blockquote>FaithRoberts.FrontEnd Developer.💌faytey7 🤝</blockquote>
-    </div>
-    <div class="column">
-        <img src="https://aramis-tech.github.io/assets/add-image.png" alt="Add yourself here" width="100" height="150"  class="center"/>
-    </div>
-  </div>
-</details>
+> [Arman Riazi, Co-Founder & CTO](https://armanriazi.github.io)
+
+- [x] Over 12 years experience in software engineer
+- [x] Over 4 year experience in Web3
+- [x] Broad experience of startups and within e-commerce
+- [x] Extensive background in web development
+- [x] Active blockchain researcher and mentor
+- [x] Solutions architect within distributed/decentralized computing
+- [x] MSc, Information Technology
+
+[Army](./army.md)
