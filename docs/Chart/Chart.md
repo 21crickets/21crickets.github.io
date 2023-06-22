@@ -18,11 +18,9 @@ They are engaged in the development of the platform in different positions. Some
 ---
 
 
-<iframe src="https://discordapp.com/widget?id=1119077618835259462&api=https://discordapp.com/api/guilds/1119077618835259462/widget.json&theme=dark" width="400" height="400" allowtransparency="true" frameborder="1" sandbox="allow-popups allow-popups-to-escape-sandbox allow-same-origin allow-scripts"></iframe>
-
 <details>
   <summary>Co-Founders</summary>
-<img src="../assets/me.jpg" align="center" width="100" height="150"  class="center"/></blockquote>Arman Riazi.Web Developer, Blockchain Specialist, M.Sc.💌armanriyazi.github.io#5111 🤝🤴🏻🦹‍♂️ </blockquote>
+<img src="..\assets\me.jpg" align="center" width="100" height="150"  class="center"/></blockquote>Arman Riazi.Web Developer, Blockchain Specialist, M.Sc.💌armanriyazi.github.io#5111 🤝🤴🏻🦹‍♂️ </blockquote>
 </details>
 
 <details>
@@ -39,7 +37,7 @@ They are engaged in the development of the platform in different positions. Some
         <img src="https://avatars.githubusercontent.com/u/40033608?v=4" width="100" height="150"  class="center"/><blockquote>Faith Roberts.FrontEnd Developer.💌faytey7 🤝</blockquote>
     </div>
     <div class="column">
-        <img src="../assets/add-image.jpg" alt="Add yourself here" width="100" height="150"  class="center"/><blockquote>Add yourself here</blockquote>
+        <img src="..\assets\add-image.jpg" alt="Add yourself here" width="100" height="150"  class="center"/><blockquote>Add yourself here</blockquote>
     </div>
   </div>
 </details>
