@@ -19,46 +19,7 @@ I made a monorepo of all of the repositories in all programming languages. You s
     Based on your niched job or desired job, clickOn one of Discord channels although you can join to all public channels but you can only join the a private channel which we will send you a link.
     > After joining the group, I am going to send an invitation link for joining the private channel P2G. So, Pls do not forget to accept the invitation. We are going to map up about project on Discord private channel. So, we do not speak about project in Github,Gist, or via email, so on.
 
-`Discord-NFT-Music-UI`
-  [Invitation Link](https://discord.gg/4pj3UddZ)
-  
-  [Discord public channel](https://discordapp.com/channels/1119077618835259462/1119077928706244648)  
-  
-`Discord-NFT-Music-Backend`
-  [Invitation Link](https://discord.gg/wdsDpgen)
-  
-  [Discord public channel](https://discordapp.com/channels/1119077618835259462/1120402380274540554)  
-  
-`Discord-NFT-Music-Blockchain`
-  [Invitation Link](https://discord.gg/HnAGEP4C)
-  
-  [Discord public channel](https://discordapp.com/channels/1119077618835259462/1120404988473118752)  
-  
-`Discord-NFT-Music-COO`
-  [Invitation Link](https://discord.gg/eyy6wdfR)
-  
-  [Discord public channel](https://discordapp.com/channels/1119077618835259462/1120439694853947603)  
-  
-`Discord-NFT-Music-CFO`
-  [Invitation Link](https://discord.gg/5EQfbXuA)
-  
-  [Discord public channel](https://discordapp.com/channels/1119077618835259462/1120443154278125569)  
-  
-`Discord-NFT-Music-CMO`
-  [Invitation Link](https://discord.gg/fUPYY7Z5)
-  
-  [Discord public channel](https://discordapp.com/channels/1119077618835259462/1120441029544398988)
-  
-  
-`Telegram Public Channel`
-  [Channel](https://t.me/mfs_nft_music)        
-  
-  [Invite link of channel](https://t.me/+bZwYECRJCNBiNmFk)    
-    
-`Telegram Public Group`    
-  [Group](https://t.me/public_mfs_nft_music)        
-  
-  [Invite link of group](https://t.me/+3wIB03SJbnMzODhk)  
+- (Social Media (Clink here))[../Socialmedia]
 
 ## Check the project out 
 

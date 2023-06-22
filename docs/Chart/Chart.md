@@ -7,7 +7,7 @@ title: "Experts'Home"
 
 **Our army is like an orchestra. Professionals who are in step with technology.**
 
-They are engaged in the development of the platform in different positions. Some joined the orchestra, and some joined the team's main chart. The status of each expert is indicated by the status bar. Who are members of the orchestra and have activities are identified with ASP status, which refers to the [Army Staking Program (ASP)](../career/Employment.md).
+They are engaged in the development of the platform in different positions. Some joined the orchestra, and some joined the team's main chart. The status of each expert is indicated by the status bar. Who are members of the orchestra and have activities are identified with ASP status, which refers to the [Army Staking Program (ASP)](../career/Career.md).
 
 - 💌, Discord ID
 - 🤝, A person is member of orchestra as a Volunteer.

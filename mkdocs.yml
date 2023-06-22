@@ -5,16 +5,22 @@ repo_url: https://github.com/armanriazi
 nav:    
     - 'Home':
         - 'Index': './'                                          
-    - 'Manifesti':
+    - 'Roadmap':
+        - 'Roadmap': './roadmap/Roadmap'                                          
+    - 'Manifesto':
         - 'Manifesto': './manifesto/Manifesto'        
     - 'Join Us':
-        - 'Recuiter': './career/Employment/' 
-    - 'MFS Army':
-        - 'MFS Army': './Chart/Chart'         
+        - 'Recuiter': './career/Career/' 
+    - 'Report&News':
+        - 'MFS Army': './report-news/ReportNews'
+    - 'Blog':
+        - 'MFS Army': './blog/Blog'                
+    - 'Army':
+        - 'MFS Army': './chart/Chart'         
     - 'Forms':
         - 'Forms': './forms/Forms'                    
     - 'Superstars':
-        - 'Singers': './Superstars'                 
+        - 'Singers': './other/Superstars'                 
 theme:
   name: material
   logo: assets/logo.JPG
