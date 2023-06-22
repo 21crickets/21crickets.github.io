@@ -22,11 +22,9 @@ They are engaged in the development of the platform in different positions. Some
   <summary>Co-Founders</summary>
 <img src="https://aramis-tech.github.io/assets/me.jpg" width="100" height="150"  class="center"/><blockquote>Arman Riazi.Web Developer, Blockchain Specialist, M.Sc.💌armanriyazi.github.io#5111 🤝🤴🏻🦹‍♂️ </blockquote>
 </details>
-
 <details>
   <summary>Knight</summary>
 </details>
-
 <details>
   <summary>Army</summary>    
   <div class="row">
