@@ -5,10 +5,6 @@ author: "Arman Riazi"
 title: "News & Report"
 ---
 
-[TOC]
-
----
-
 [Access to the history list](./report_news_list.md)
 
 

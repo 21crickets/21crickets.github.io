@@ -7,8 +7,8 @@ title: "Forms"
 
 
 <figure markdown>
-![Social Media](../assets/social-media.png){ width="600" height="400" align=center }
-<figcaption>Social Media</figcaption>
+![Hand in Hand](../assets/social-media.png){ width="600" height="400" align=center }
+<figcaption>Hand in Hand</figcaption>
 </figure>
 
 - [Partnership](./Form_partnership.md)

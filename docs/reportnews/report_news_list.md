@@ -5,10 +5,10 @@ author: "Arman Riazi"
 title: "News & Report"
 ---
 
-<!-- <figure markdown>
+<figure markdown>
 ![Cricket](../assets/aramistech.jpg){ width="600" height="300" align=center }
 <figcaption>As merry as a mars cricket</figcaption>
-</figure> -->
+</figure>
 
 ---
 
