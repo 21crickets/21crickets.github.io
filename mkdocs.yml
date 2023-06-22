@@ -15,8 +15,8 @@ nav:
         - 'ReportNews': './report-news/ReportNews'
     - 'Blog':        
         - 'Blog': './blog/Blog'                    
-    - 'Army':
-        - 'Chart': './chart/Chart'         
+    - 'Chart':
+        - 'Army': './chart/Chart'         
     - 'Forms':
         - 'Forms': './forms/Forms'                    
     - 'SocialMedia':

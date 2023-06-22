@@ -6,4 +6,4 @@ title: "Blogging"
 ---
 
 
-[What exactly are music NFTs](blog_nft.md)
+[What exactly are music NFTs](./blog_nft)

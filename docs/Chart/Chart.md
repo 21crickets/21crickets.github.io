@@ -1,5 +1,5 @@
 ---
-keywords:  MFS ArmanRiazi Music NFT Blockchain Career Employment Job Superstar
+keywords:  MFS ArmanRiazi Music NFT Blockchain Career Employment Job
 feature:  superstart
 author: "Arman Riazi"
 title: "Experts'Home"

@@ -1,3 +1,3 @@
-FROM squidfunk/mkdocs-material
+FROM armanriazi/mkdocs-material
 RUN pip install mkdocs-material
 
