@@ -1,8 +1,9 @@
 # Copyright (c) 2023 ArmanRiazi
 
-All.md
-Technical_Paper.md
-Whitepaper.md
+./docs/All.md
+./docs/Technical_Paper.md
+./docs/Whitepaper.md
+
 # Dependencies
 /node_modules
 /__pycache__

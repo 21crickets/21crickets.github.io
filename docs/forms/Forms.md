@@ -7,7 +7,7 @@ title: "Forms"
 
 
 <figure markdown>
-![Hand in Hand](../assets/aramistech.jpg){ width="600" height="250" align=center }
+![Hand in Hand](../assets/aramistech.jpg){ width="800" height="150" align=center }
 <figcaption>Hand in Hand</figcaption>
 </figure>
 
