@@ -31,7 +31,9 @@ title: "Index"
 # Environmental issues
 > The environmental consequences of NFTs can no longer go unaddressed. **ETH 2.0 still generates 10 million mcg CO2 per Mint!** *(Equivalent to charging your smartphone nine times).*
 
-> **One NFT mint on our infrastructure is a mere 1.2 mcg CO2.** A human exhales 30 times more CO2 in one exhale. *(It is not just for saying that we can claim it)*
+> **One NFT mint on our infrastructure is a mere 1.2 mcg CO2.** A human exhales 30 times more CO2 in one exhale.Enjoy scalability (6000 tps), painless transactions *(It is not just for saying that we can claim it)*
+>
+> Sociable Weaver - A seamless UX/UI with blockchain under the hood for organizations and individuals to manage assets like music.
 
 # Papers
 
