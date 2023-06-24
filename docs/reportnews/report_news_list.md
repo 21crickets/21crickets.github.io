@@ -24,6 +24,10 @@ title: "News & Report"
 
 # Report
 ## 06/2023
+### Release unique-chain
+[Release unique-chain](https://github.com/UniqueNetwork/unique-chain/releases/tag/v942057_)
+By return to [unique-nft-marketplace-important-announcement](https://unique.network/blog/unique-nft-marketplace-important-announcement/)
+
 ### Publish our proposal business work
 [Publish our proposal business work-06/20/2023](https://www.intechopen.com/)
 
