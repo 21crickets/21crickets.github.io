@@ -7,7 +7,7 @@ I made a monorepo of all of the repositories in all programming languages. You s
 
 <figure markdown>
 ![FiveSteps to join Army](../assets/five-step.JPG){ width="600" height="400" align=center }
-<figcaption>FiveSteps to join Army</figcaption>
+<figcaption>Five Steps to join Army</figcaption>
 </figure>
 
 

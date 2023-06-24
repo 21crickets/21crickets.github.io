@@ -15,7 +15,7 @@ title: "Roadmap & Activities"
 </figure> -->
 
 
-- [Views of our project management](https://github.com/armanriazi?tab=projects)
+- [Activities & Project management](https://github.com/armanriazi?tab=projects)
 
 - [Public Social media](../social/channels.md)
 

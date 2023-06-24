@@ -22,7 +22,9 @@ nav:
     - 'Social Media':
         - 'Social Media': './social/channels/'         
     - 'Superstars':
-        - 'Superstars': './other/Superstars'                 
+        - 'Superstars': './other/Superstars'      
+    - 'Tags':
+        - 'Tags': './tags'                     
 theme:
   name: material
   logo: assets/logo.JPG

@@ -93,6 +93,6 @@ title: "Index"
 
 <a href="https://app.fossa.com/projects/git%2Bgithub.com%2Farmanriazi%2Fmfs?ref=badge_large" alt="FOSSA Status"><img src="https://app.fossa.com/api/projects/git%2Bgithub.com%2Farmanriazi%2Fmfs.svg?type=large"/></a>
 
-*[Aramistech-MFS(zendo community)](https://zenodo.org/communities/aramistech-mfs)*
+- *[Aramistech-MFS(zendo community)](https://zenodo.org/communities/aramistech-mfs)*
 
-*[InterRegEurope](https://www.interregeurope.eu/project-ideas/nft-music-platform)*
+- *[InterRegEurope](https://www.interregeurope.eu/project-ideas/nft-music-platform)*
