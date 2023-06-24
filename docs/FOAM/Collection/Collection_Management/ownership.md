@@ -1,4 +1,0 @@
-The application [[developer]] would create the collection and become its owner. Ownership of collection means the #full_authority over all of its properties and NFTs, including the capacity to destroy the tokens and the collection or give up this authority by transferring the ownership to an address with an unknown private key.
-It is hard to overestimate the importance of Ownership in human society. Ownership defines the exclusive rights and control over the property. Thus property, ownership, and rights are one of the most important mankind essentials.
-It is important for one’s solid realization of the universe to build a correct and precise model of ownership and rights[^1].
-On MFS DApp, creating NFT collections is easy, free, and secure, without ever needing to write a single line of code! We give you the option to mint any digital asset, and both owners and administrators can manage collections.

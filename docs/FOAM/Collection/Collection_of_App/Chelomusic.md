@@ -1,3 +1,0 @@
-Chelomusics are a collection of 1000 NFTs, built on [[Unique]], that will be going live on our Marketplace over time. Not only was this drop a significant milestone to showcase how our product allows creators to build on [[Polkadot]], but it was an early look into our dedication to building a new kind of efficient community on the blockchain.
-The Unique-based Chelomusic Collection saw most of the 1000 MFS, randomly generated, characters (e.g genres, types of mixes). This sale will have welcomed a variety of new users to Polkadot and shows them NFTs on this network can shake some of the constraints that many users face running on ETH (slow network speeds, limited feature set, lack of scalability)[^1].
-

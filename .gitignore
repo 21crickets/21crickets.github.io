@@ -1,6 +1,8 @@
 # Copyright (c) 2023 ArmanRiazi
 
 /PAPER_PRV
+/FOAM_PAPERS
+/FOAM_MYSELF
 
 # Dependencies
 /node_modules
