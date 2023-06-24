@@ -28,6 +28,10 @@ title: "Index"
 
 > We have not released the LTS version yet. At the following link, you will know that there are stable and draft versions. So, both of them do not count as latest-version-Stable.ASAP, we will release links with the LTS flag.
 
+# Environmental issues
+> The environmental consequences of NFTs can no longer go unaddressed. **ETH 2.0 still generates 10 million mcg CO2 per Mint!** *(Equivalent to charging your smartphone nine times).*
+
+> **One NFT mint on our infrastructure is a mere 1.2 mcg CO2.** A human exhales 30 times more CO2 in one exhale. *(It is not just for saying that we can claim it)*
 
 # Papers
 
