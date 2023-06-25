@@ -73,7 +73,13 @@ It is difficult for one singer to enter another country’s market, especially A
 
 ## Project Vision/Objectives
 
-- [x] Establish an ecosystem of Blockchain payment platform for the fastest way to meet World-Genres in the world without regional restriction.
+Our ambition serves personal, collective, and institutional goals:
+
+- [x] Amplify the impact of purpose-driven NFT artists by joining forces to fandom with collective initiatives (shared communication, collaborations, collective exhibitions, etc).
+- [x] Create a self-sustainable model for purpose-driven music production / finding an alternative model to the traditional music industry by enabling genuine sustainability.
+- [x] Create the first robust online gallery of NFT music playing for the planet.
+- [x] Directly support purpose-driven NGOs with sales of donated events and create a new culture of the music supporting purpose-driven projects.
+- [x] Establish an ecosystem of Blockchain NFT platform for the fastest way to meet World-Genres in the world without regional restriction.
 - [x] Create streaming networks where artists can communicate directly with their fans and easily making profits, and it becomes the most preferred music service-oriented in the world.
 - [x] Support the growing aspirations and self-creating activities of artists who are ahead of debut competitors.
 - [x] Reduce the broker’s revenue share in the entertainment business revenue structure and build an environment where MFS Token can be used as the best payment method.
@@ -801,7 +807,7 @@ The decision is made to build an on-chain marketplace PoC to facilitate safe tra
 - [x] Project planning
 - [x] White and yellow paper
 - [ ] Private fund-rising
-- [ ] Team up
+- [x] Team up
 - [ ] Relocating to settle down 
 - [ ] Providing infrastructure for remote working
 
@@ -872,7 +878,9 @@ Risks in our apps can stem from protocol or unique network.Also, failures poor g
 
 [DApp](https://MFS.app)
 
-[MFS](https://armanriazi.github.com/mfs)
+[Github](https://github.com/armanriazi?tab=projects)
+
+[MFS](https://aramis-tech.github.io)
 
 [Author](https://armanriazi.github.io)
 
@@ -924,7 +932,7 @@ MFS (Name of DApp-till register company)
 
 Disabled references mean it has been excluded from the whitepaper but not the full version of the main paper.
 
-[^1]: [Unique Network Technical Paper](https://github.com/UniqueNetwork/techpaper/blob/master/unique_techpaper.pdf)
+[^1]: [Unique Network Technical Paper](https://github.com/UniqueNetwork/techpaper)
 
 [^2]: Unchained Music. (n.d.). Unchainedmusic.Io. Retrieved June 5, 2023, from https://unchainedmusic.io/
 
