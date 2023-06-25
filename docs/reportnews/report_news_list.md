@@ -32,7 +32,7 @@ By return to [unique-nft-marketplace-important-announcement](https://unique.netw
 [Publish our proposal business work-06/20/2023](https://www.intechopen.com/)
 
 <figure markdown>
-![publish-chapter-intechopen](../assets/publish-chapter-intechopen.JPG){ width="600" height="400" align=center }
+![publish-chapter-intechopen](../assets/publish-ch-intechopen.JPG){ width="600" height="400" align=center }
 <figcaption>Require a help funding to publish on the Business, Management and Economics book.</figcaption>
 </figure>
 
