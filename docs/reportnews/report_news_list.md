@@ -1,5 +1,5 @@
 ---
-keywords:  MFS ArmanRiazi Music NFT Blockchain Report News
+keywords:  MFS ArmanRiazi Music NFT Blockchain Report News Event
 feature:  report news
 author: "Arman Riazi"
 title: "News & Report"
@@ -18,6 +18,15 @@ title: "News & Report"
 
 
 # News
+
+## 07/2023
+Sydney event is coming! It will take place on November 16th, 2023. We are  in the fields of Blockchain, Web3.0, Cryptocurrency, Fintech, NFTs and Metaverse. We took out VIP Pass from our partnership viz WikiExpo. We proud to be part of the Wiki Expo programs.
+
+<figure markdown>
+![Wiki Expo](../assets/WikiExpo.png){ width="250" height="500" align=center }
+<figcaption>AramisTech in the WIKI EXPO.Nov 16th, 2023.</figcaption>
+</figure>
+
 ## 06/2023
 ### Posted jobs on Linkedin
 [Posted jobs on Linkedin-06/18/2023](https://linkedin.com/company/aramistech)

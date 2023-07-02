@@ -98,3 +98,5 @@ title: "Index"
 - *[Aramistech-MFS(zendo community)](https://zenodo.org/communities/aramistech-mfs)*
 
 - *[InterRegEurope](https://www.interregeurope.eu/project-ideas/nft-music-platform)*
+
+- *[Aramistech-Logo](./assets/logo/)*
