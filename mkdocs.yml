@@ -143,8 +143,7 @@ markdown_extensions:
       custom_checkbox: true
   - pymdownx.tilde
 plugins:
-  - tags:
-      tags_file: ./docs/tags.md
+  - tags
   - search
   - social
   - glightbox

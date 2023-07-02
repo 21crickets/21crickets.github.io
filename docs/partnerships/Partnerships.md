@@ -5,6 +5,13 @@ author: "Arman Riazi"
 title: "Partnerships"
 ---
 
+<figure markdown>
+![Cricket](../assets/logo/AramisTech-Orange-Logo.png){ width="800" height="300" align=center }
+<figcaption>As merry as a mars cricket</figcaption>
+</figure>
+
+---
+
 <div class="row">
  <div class="column">
     <img src="https://aramis-tech.github.io/assets/WikiExpo-lg.JPG" width="100" height="150"  class="center"/><blockquote>AramisTech in the WIKI EXPO.Nov 16th, 2023.</blockquote>
