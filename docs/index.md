@@ -100,3 +100,5 @@ title: "Index"
 - *[InterRegEurope](https://www.interregeurope.eu/project-ideas/nft-music-platform)*
 
 - *[Aramistech-Logo](./assets/logo/)*
+  > Add the name of file to the link: 
+  > AramisTech-Logo{0-9}.{png/jpg}

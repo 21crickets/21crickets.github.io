@@ -6,7 +6,7 @@ title: "Partnerships"
 ---
 
 <figure markdown>
-![Cricket](../assets/logo/AramisTech-Orange-Logo.png){ width="800" height="300" align=center }
+![Cricket](../assets/logo/AramisTech-Logo0.png){ width="500" height="100" align=center }
 <figcaption>As merry as a mars cricket</figcaption>
 </figure>
 
