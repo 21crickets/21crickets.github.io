@@ -64,8 +64,8 @@ title: "Index"
 
 > The paper is a summary of the main paper. So, for joining our community or making a contribution to our proposed work, it would be great to [fill out the form for contributors](forms/Form_partnership.md). We will send you an invitation link, and then we will have a meeting to find out your purpose or approach. Finally, you will gain access to the main resources and new ideas of the MFS NFT platform.
 
-[Author](https://armanriazi.github.io/services)
-
+- [Author](https://armanriazi.github.io/services)
+- [My NFT Metaverse Space](https://oncyber.io/@armanriazi)
 
 ---
 
@@ -99,6 +99,8 @@ title: "Index"
 
 - *[InterRegEurope](https://www.interregeurope.eu/project-ideas/nft-music-platform)*
 
+- *[Metaverse Space. A.R](https://oncyber.io/spaces/KDVwdvMNh569X8RzLwoV)*
+  
 - *[Aramistech-Logo](./assets/logo/)*
   > Add the name of file to the link: 
   > AramisTech-Logo{0-9}.{png/jpg}
