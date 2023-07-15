@@ -47,7 +47,6 @@ title: "Partnerships"
 <details>
   <summary>Investors</summary>
 <div class="row">
- <div class="column">
     <div class="column">
         <img src="https://aramis-tech.github.io/assets/partnerships/al-dahiya.JPG"  width="100" height="150"  class="center" /><blockquote>Al-Dahiya.💬</blockquote>
     </div>
