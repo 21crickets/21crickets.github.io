@@ -6,7 +6,7 @@ title: "News & Report"
 ---
 
 <figure markdown>
-![Cricket](../assets/logo/AramisTech-Logo3.jpg){ width="200" height="20" align=center }
+![Cricket](../assets/logo/AramisTech-Logo3.jpg){ width="400" height="50" align=center }
 <figcaption>As merry as a mars cricket</figcaption>
 </figure>
 
@@ -21,7 +21,7 @@ title: "News & Report"
 
 
 ## 10/2023
-Listed on the [wellfound](https://wellfound.com/company/aramistech) and publish a new [jobs](https://wellfound.com/company/aramistech/jobs). We are in the process of [findrising](https://wellfound.com/company/aramistech/funding)
+Listed on the [wellfound](https://wellfound.com/company/aramistech) and publish a new [jobs](https://wellfound.com/company/aramistech/jobs). We are in the process of [fundraising](https://wellfound.com/company/aramistech/funding)
 
 ## 10/2023
 ### Polkadot Hackathon Global Series: APAC Edition 2023

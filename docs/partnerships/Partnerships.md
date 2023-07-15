@@ -6,12 +6,12 @@ title: "Partnerships"
 ---
 
 <figure markdown>
-![Cricket](../assets/logo/AramisTech-Logo0.png){ width="400" height="100" align=center }
+![Cricket](../assets/logo/AramisTech-Logo0.png){ width="400" height="50" align=center }
 <figcaption>As merry as a mars cricket</figcaption>
 </figure>
 
 ---
-- 💬, NegotiatIng is on the process
+- 💬, Negotiating is on the process
 ---
 
 <details>
@@ -32,7 +32,7 @@ title: "Partnerships"
   <summary>Development & Provider</summary>
 <div class="row">
     <div class="column">
-        <img src="https://crypton.studio/_nuxt/img/logo.84dc04a.svg" alt="crypton.studio" width="100" height="150"  class="center"/>
+        <img src="https://crypton.studio/_nuxt/img/logo.84dc04a.svg" alt="crypton.studio" width="100" height="150"  class="center"/><blockquote>Crypton.Studio.💬</blockquote>
     </div>
     <div class="column">
         <img src="https://aramis-tech.github.io/assets/add-image.png" alt="Add yourself here" width="100" height="150"  class="center"/>
@@ -61,7 +61,7 @@ title: "Partnerships"
   <summary>Events</summary>
 <div class="row">
  <div class="column">
-    <img src="https://aramis-tech.github.io/assets/WikiExpo-lg.JPG" width="100" height="150"  class="center"/><blockquote>AramisTech in the WIKI EXPO.Nov 16th, 2023.</blockquote>
+    <img src="https://aramis-tech.github.io/assets/WikiExpo-lg.JPG" width="100" height="150"  alt="AramisTech in the WIKI EXPO.Nov 16th, 2023." class="center"/><blockquote>WiKiExpo</blockquote>
     </div>
     <div class="column">
         <img src="https://aramis-tech.github.io/assets/add-image.png" alt="Add yourself here" width="100" height="150"  class="center"/>
