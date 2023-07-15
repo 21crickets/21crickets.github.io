@@ -13,8 +13,9 @@ title: "Partnerships"
 ---
 
 - 💬, Negotiating is on the process
+- ✅, Completed
 
-[Negotiation Room](https://zep.us/play/yVgPkY)
+- [Negotiation Room(invite)](https://zep.us/play/yVgPkY)
 
 ---
 
