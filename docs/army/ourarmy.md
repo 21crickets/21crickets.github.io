@@ -51,7 +51,7 @@ They are engaged in the development of the platform in different positions. Some
   <summary>Army</summary>    
   <div class="row">
     <div class="column">
-    <img src="https://aramis-tech.github.io/assets/army/davide_de_cristofano.JPG" width="100" height="150"  class="center"/><blockquote>Davide De Cristofano, Musician.💌dcrdvd92@gmail.com 🤝</blockquote>
+    <img src="https://aramis-tech.github.io/assets/army/davide_de_cristofano.JPG" width="100" height="150"  class="center"/><blockquote>Davide D.Cristofano, Musician.💌dcrdvd92@gmail.com 🤝</blockquote>
     </div>
     <div class="column">
         <img src="https://aramis-tech.github.io/assets/army/andy_buck.JPG" width="100" height="150"  class="center"/><blockquote>Andy Buck, Musician.💌andybuck14@gmail.com 🤝</blockquote>
@@ -68,7 +68,7 @@ They are engaged in the development of the platform in different positions. Some
         <img src="https://avatars.githubusercontent.com/u/40033608?v=4" width="100" height="150"  class="center"/><blockquote>Faith Roberts, FrontEnd-Dev.💌faytey7 🤝</blockquote>
     </div>
     <div class="column">
-        <img src="https://aramis-tech.github.io/assets/army/usman_peerzada.JPG" alt="Add yourself here" width="100" height="150"  class="center"/><blockquote>Peerzada Usman, Social Media.💌faytey7 🤝</blockquote>
+        <img src="https://aramis-tech.github.io/assets/army/usman_peerzada.JPG" alt="Add yourself here" width="100" height="150"  class="center"/><blockquote>Peerzada Usman, Social Media.💌Usman_peerzada@hotmail.com 🤝</blockquote>
     </div>
   </div>
 </details>

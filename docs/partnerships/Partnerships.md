@@ -11,7 +11,9 @@ title: "Partnerships"
 </figure>
 
 ---
+
 - 💬, Negotiating is on the process
+  
 ---
 
 <details>
@@ -32,7 +34,7 @@ title: "Partnerships"
   <summary>Development & Provider</summary>
 <div class="row">
     <div class="column">
-        <img src="https://crypton.studio/_nuxt/img/logo.84dc04a.svg" alt="crypton.studio" width="100" height="150"  class="center"/><blockquote>Crypton.Studio.💬</blockquote>
+        <img src="https://aramis-tech.github.io/assets/partnerships/crypton_studio.JPG" alt="crypton.studio" width="100" height="150"  class="center"/><blockquote>Crypton.Studio.💬</blockquote>
     </div>
     <div class="column">
         <img src="https://aramis-tech.github.io/assets/add-image.png" alt="Add yourself here" width="100" height="150"  class="center"/>
@@ -47,7 +49,7 @@ title: "Partnerships"
 <div class="row">
  <div class="column">
     <div class="column">
-        <img src="https://www.al-dahiya.com/userfiles/sitelogo/logo-main.png" alt="Add yourself here" width="100" height="150"  class="center"/><blockquote>Al-Dahiya.💬</blockquote>
+        <img src="https://aramis-tech.github.io/assets/partnerships/al-dahiya.JPG" alt="Add yourself here" width="100" height="150"  class="center"/><blockquote>Al-Dahiya.💬</blockquote>
     </div>
     <div class="column">
         <img src="https://aramis-tech.github.io/assets/add-image.png" alt="Add yourself here" width="100" height="150"  class="center"/>
