@@ -19,6 +19,10 @@ title: "News & Report"
 
 # News
 
+
+## 10/2023
+Listed on the [wellfound](https://wellfound.com/company/aramistech) and publish a new [jobs](https://wellfound.com/company/aramistech/jobs). We are in the process of [findrising](https://wellfound.com/company/aramistech/funding)
+
 ## 10/2023
 ### Polkadot Hackathon Global Series: APAC Edition 2023
 AramisTech has registered in the Polkadot Hackathon Global Series: APAC Edition 2023.
