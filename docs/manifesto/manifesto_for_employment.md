@@ -73,8 +73,8 @@ Our team is skilled and dedicated to providing top-notch services. If you're int
 
 ### Bonus Points For
 
-- [ ] Polkadot, Unique network  experience
-- [ ] Previously worked for a startup
+- [x] Polkadot, Unique network  experience
+- [x] Knight salary
 
 A HUGE benefit of this role is being able to work remotely from ANYWHERE in the world - with flexible working hours too!
 

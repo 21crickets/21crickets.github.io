@@ -78,7 +78,8 @@ title: "Index"
 
 > Running the project (**localhost**) and accessing the full paper will be explained in an online meeting.
 
-[DApp-underwork(coming soon)](https://mfs.app)
+- [DApp underwork (coming soon)](https://mfs.app)
+- [Github NFT Music](https://github.com/armanriazi/nft-music-reference)
 
 <!--
 [mfs-music.netlify.app(coming soon)](https://mfs-music.netlify.app)

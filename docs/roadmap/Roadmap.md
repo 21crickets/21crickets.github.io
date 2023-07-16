@@ -5,7 +5,6 @@ author: "Arman Riazi"
 title: "Roadmap & Activities"
 ---
 
-
 <!-- <figure markdown>
 ![DEFI](../assets/defi-stack.JPG){ width="500" height="200" align=center }
 </figure>
@@ -15,8 +14,8 @@ title: "Roadmap & Activities"
 </figure> -->
 
 
+- [Github NFT Music](https://github.com/armanriazi/nft-music-reference)
 - [Activities & Project management](https://github.com/armanriazi?tab=projects)
-
 - [Public Social media](../social/channels.md)
 
 # Roadmap

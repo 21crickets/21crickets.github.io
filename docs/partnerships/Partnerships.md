@@ -48,6 +48,20 @@ title: "Partnerships"
 </div>
 </details>
 <details>
+  <summary>Notable Investors</summary>
+<div class="row">
+    <div class="column">
+        <img src="https://aramis-tech.github.io/assets/add-image.png" alt="Add yourself here" width="100" height="150"  class="center"/>
+    </div>
+    <div class="column">
+        <img src="https://aramis-tech.github.io/assets/add-image.png" alt="Add yourself here" width="100" height="150"  class="center"/>
+    </div>
+    <div class="column">
+        <img src="https://aramis-tech.github.io/assets/add-image.png" alt="Add yourself here" width="100" height="150"  class="center"/>
+    </div>
+</div>
+</details>
+<details>
   <summary>Investors</summary>
 <div class="row">
     <div class="column">
