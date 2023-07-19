@@ -36,7 +36,7 @@ They are engaged in the development of the platform in different positions. Some
   <summary>Knights</summary>  
     <div class="row">
     <div class="column">
-        <img src="https://aramis-tech.github.io/assets/Abhiraj Mengad.JPG" alt="Abhiraj Mengad" width="100" height="150"  class="center"/>
+        <img src="https://aramis-tech.github.io/assets/army/Abhiraj Mengad.JPG" alt="Abhiraj Mengad" width="100" height="150"  class="center"/><blockquote>Abhiraj Mengad, FrontEnd Developer</blockquote>
     </div>
     <div class="column">
         <img src="https://aramis-tech.github.io/assets/add-image.png" alt="Add yourself here" width="100" height="150"  class="center"/>
