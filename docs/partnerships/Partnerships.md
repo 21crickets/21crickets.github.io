@@ -23,13 +23,13 @@ title: "Partnerships"
   <summary>Strategic</summary>
 <div class="row">
  <div class="column">
-    <img src="https://avatars.githubusercontent.com/u/14176906?s=200&v=4" width="100" height="150"  alt="parity.io" class="center"/><blockquote>Parity.💬</blockquote>
+    <img src="https://avatars.githubusercontent.com/u/14176906?s=200&v=4" width="100" height="150"  alt="parity.io super lead web 3.0 framework" class="center"/><blockquote>Parity.💬</blockquote>
     </div>
     <div class="column">
-        <img src="https://avatars.githubusercontent.com/u/87804347?s=200&v=4" alt="unique.network" width="100" height="150"  class="center"/><blockquote>Unique Network.💬</blockquote>
+        <img src="https://avatars.githubusercontent.com/u/87804347?s=200&v=4" alt="unique.network a parachain of Polkadot" width="100" height="150"  class="center"/><blockquote>Unique Network.💬</blockquote>
     </div>
     <div class="column">
-        <img src="https://aramis-tech.github.io/assets/add-image.png" alt="Add yourself here" width="100" height="150"  class="center"/>
+        <img src="https://aramis-tech.github.io/assets/partnerships/br-group.JPG" alt="A leading PR agency in blockchain" width="100" height="150"  class="center"/><blockquote>BR Group.💬</blockquote>
     </div>
 </div>
 </details>
