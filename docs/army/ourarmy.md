@@ -36,7 +36,7 @@ They are engaged in the development of the platform in different positions. Some
   <summary>Knights</summary>  
     <div class="row">
     <div class="column">
-    <img src="https://aramis-tech.github.io/assets/add-image.png" alt="Add yourself here" width="100" height="150"  class="center"/>
+        <img src="https://aramis-tech.github.io/assets/Abhiraj Mengad.JPG" alt="Abhiraj Mengad" width="100" height="150"  class="center"/>
     </div>
     <div class="column">
         <img src="https://aramis-tech.github.io/assets/add-image.png" alt="Add yourself here" width="100" height="150"  class="center"/>
@@ -54,7 +54,7 @@ They are engaged in the development of the platform in different positions. Some
     <img src="https://aramis-tech.github.io/assets/army/davide_de_cristofano.JPG" width="100" height="150"  class="center"/><blockquote>Davide D.Cristofano, Musician.💌dcrdvd92@gmail.com 🤝</blockquote>
     </div>
     <div class="column">
-        <img src="https://aramis-tech.github.io/assets/army/andy_buck.JPG" width="100" height="150"  class="center"/><blockquote>Andy Buck, Musician.💌andybuck14@gmail.com 🤝</blockquote>
+        <img src="https://aramis-tech.github.io/assets/army/andy_buck_0.JPG" width="100" height="150"  class="center"/><blockquote>Andy Buck, Musician.💌andybuck14@gmail.com 🤝</blockquote>
     </div>
     <div class="column">
         <img src="https://aramis-tech.github.io/assets/add-image.png" alt="Add yourself here" width="100" height="150"  class="center"/>
