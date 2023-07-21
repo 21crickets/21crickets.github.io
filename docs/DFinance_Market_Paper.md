@@ -785,17 +785,13 @@ The MFS team has extensive experience across all relevant sectors - from e-comme
 - [x] Solutions architect within distributed/decentralized computing
 - [x] MSc, Information Technology
 
-> Shahab Kamal, Web Developer 
-
-> Kianoush Dorta, Web Developer 
-
 
 ---
 
 # Roadmap
 The decision is made to build an on-chain marketplace PoC to facilitate safe trading, explore the possible dApp architectures, experiment with miscellaneous types of loads, and discover and overcome possible problems in a developer-friendly environment. The research and development in MFS will be a continuous process with a result of miscellaneous PoCs and further implementation in MainNet or ecosystem tools in case if the corresponding research project succeeds. Advertising and inviting famous artists are parallel tasks during the season.
 
-[Appendix](https://armanriazi.github.io/mfs/Whitepaper/#appendix "jump to the appendix")
+[Appendix](./Appendix/Appendix.md "jump to the appendix")
 
 <figure markdown>
 ![New intermediaries needed for all non-native assets](./assets/token-pillar.JPG){ width="600" height="400" align=center }
@@ -807,8 +803,7 @@ The decision is made to build an on-chain marketplace PoC to facilitate safe tra
 - [x] Project planning
 - [x] White and yellow paper
 - [ ] Private fund-rising
-- [x] Team up
-- [ ] Relocating to settle down 
+- [x] Team up & Relocation
 - [ ] Providing infrastructure for remote working
 
 ## 4Q 2023

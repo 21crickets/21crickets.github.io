@@ -5,7 +5,6 @@ author: "Arman Riazi"
 title: "Whitepaper"
 ---
 
-
 <figure markdown>
 ![Knowledge Graph](./assets/foam.JPG){ width="800" height="600" align=center }
 <figcaption>Knowledge Graph</figcaption>
@@ -17,7 +16,7 @@ title: "Whitepaper"
 
 > *As merry as a mars cricket*
 
-> **Play, Mix, Own, Govern, Earn, Self-releasing,Blanket licensing, Co-Owned, M2E, and Pay as you go TRXs**
+> **Play, Mix, Own, Govern, Earn, Self-releasing, Blanket licensing, Co-Owned, M2E, and Pay as you go TRXs**
 
 ---
 
@@ -43,15 +42,23 @@ Keywords: NFT, Music, Audio, DApp, Musical sophistication, Active engagement, Bl
 
 ---
 
+
 # Introduction
 
 ## Blockchain
 Blockchain, which is a technology for building distributed ledgers that provide an immutable log of transactions recorded in a distributed network, has become prominent recently as the underlying technology of cryptocurrencies and is revolutionizing data storage and processing in computer network systems[^15].
 Blockchain-agnostic protocols enable cross-blockchain or cross-chain communication between arbitrary distributed ledger technologies[^16].
 
+
 ## What is an NFT?
 Like cryptocurrencies, NFTs are issued on a blockchain, and are used to designate ownership of a certain asset.
 Unlike cryptocurrency, NFTs are not fungible, meaning each NFT is unique and not interchangeable with another NFT. For the first time, content on the internet in the form of an NFT can be definitively owned by a specific person independent of a centralized intermediary, and this is unlocking exciting opportunities for digital commerce and engagement[^6].
+
+## Polkadot
+The Polkadot network has several entities engaged in handling transactions: collator, validator, nominator, and fisherman. Collators produce proofs for the validators. Transactions are then executed and aggregated in blocks. There is the possibility of collators to pool, to coordinate and share the rewards coming from creating blocks on the parachains they actuate. Validators who misbehave can have their block rewards denied or, in case of recurrence, have their security bond confiscated. Validators are the equivalent to groups of cooperating miners that share block rewards proportionally to their contribution (mining pools) on PoW systems (e.g., Bitcoin). Nominators provide their own stake to validators, whereby sharing the rewards and incurring potential slashing, in case of misbehaving. Fishermen get bounties for reporting validators’ misbehavior, such as helping to ratify an invalid block. Polkadot’s relay chain uses Substrate[^16].
+
+Upgrading conventional blockchains requires forking the network, often taking months of work, and particularly contentious hard forks can break apart a community. Polkadot revolutionizes this process, enabling blockchains to upgrade themselves without
+the need to fork the chain. These forkless upgrades are enacted through Polkadot’s transparent on-chain governance system[^20].
 
 
 ## Unique Network
@@ -59,7 +66,6 @@ Unique Network blockchain in the Polkadot ecosystem can be seen as a foundation 
 
 1.  Token Pallets that handle NFTs, RTFs, and Fungible tokens
 2.  EVM/Ethereum Smart Contracts
-
 
 ---
 
@@ -104,13 +110,53 @@ Our ambition serves personal, collective, and institutional goals:
 
 # Background
 
+
 ## Streaming Music On Blockchain
 The global entertainment market is expected to grow to about $2 trillion by 2021. In 2018, the music streaming market reached nearly $274 million. In addition, 41% of Internet users in Korea have registered for streaming services, and it is far higher than other countries.
 Recently, streaming services which increasingly have improved user convenience have emerged as the most accessible segment in the music market today. For groups of artists performing independently, streaming services is becoming a foothold that creating new types of revenue and moving away from geographic constraints to provide a wide range of audiences with their music. The most important thing is that artists also can improve their skills constantly through these services[^3].
 
 ## Smart Contract
 
-Smart Contracts have benefits and considerations in three area includes: digital Identity, Records, financial Trade and so on[^8].
+Smart Contracts have benefits and considerations in three area includes: digital Identity, Records, and financial Trade[^8].
+
+### Digital Identity
+
+#### Benefits        
+1. Securely disclose personal data to various counterparties
+2. Reducing liability while facilitating frictionless KYC
+3. Increased compliance, resiliency and interoperability
+   
+#### Considerations
+1. Security of smart contracts
+2. Technical integration with attestation providers
+3. Formation of protocols and standards to deliver interoperability by the involved parties
+
+### Records
+
+#### Benefits
+1. auto-renewal and auto-release 
+2. Automated processes 
+3. Archival data automatically 
+   
+#### Considerations
+1. Storing data on DLT without slowing performance or compromising data privacy
+2. Active involvement of lenders and registered agents must exist for more complex functions
+
+### Trade 
+
+#### Benefits
+1. Faster approval and payment initiation
+2. Automated compliance
+3. Monitoring of Letter of Credit conditions
+4. Transport-related contract agreements
+5. Increased liquidity of financial assets due to ease of transfer and fraud reduction
+   
+#### Considerations
+1. Wider acceptability and adoption
+2. Potential smart contract execution fall-out must be determined
+3. Integration with settlement systems, off-chain ecosystem
+
+
 
 ## Non-Fungible
 
@@ -161,6 +207,29 @@ Once the collection is created, its owner can mint tokens that belong to this co
 ## Standards
 
 The Interchain NFT and Metadata Standardization conducted extensive research of NFT token and their Metadata standards. Unique Network aims to comply with this interchain standard and deliver the network protocol that is applicable to and able to describe a wide range of NFT formats known in order to prewire the NFT interoperability for most if not all known NFT standards, which is explained in detail further[^1].
+
+### ERC-721
+It provides capability to mint, burn, and transfer tokens. The methods such as allow and transferFrom enable withdrawing tokens on owner’s behalf. It is also possible to include random data in the transfer transactions and perform safe transfers that verify that the
+receiving party (a smart contract) is capable of receiving the NFT token and can handle it by executing a on ERC721 Received call-back method. All these features are or will be covered by the basic functionality of NFT Pallet, which is in the core of Unique Network.
+Also, the ERC-721 standard describes the ERC721 Metadata metadata standard, which includes collection name, token symbol, and token URI. Collection name, description and symbol (token prefix) are the properties of any Unique collection, and token URI can be set as a
+part of the Off-chain schema. Token supply as well as BalanceOf parameters also translate one to one to Unique collection parameters: number of created tokens and balance[^1].
+
+### ERC-1633
+Refungible standard is covered by Re-Fungible mode in Unique NFT Pallet[^1].
+
+### ERC-1155
+ERC-1155 standard mainly adds batch operations on top of ERC-721. This functionality is not directly changing the data formats for NFT, but is a convenient way to automate and optimize operations on multiple NFTs. Also, even though the batch minting is not explicitly included in ERC-1155, Unique implements this feature as well, and will implement batch transfer operations[^1].
+
+### ERC-994 and ERC-998
+Delegated NFT and Composable NFT add the relationship layer, e.g. “NFTs are arranged in a federated, tree-like format”. In order to stay efficient while accommodating this functionality, Unique Blockchain will add a pallet that will allow to create directed labeled
+interconnections between NFTs. The NFT Relations section explains the relationships between NFTs in more detail[^1].
+
+### ERC-809 and ERC-1201
+Ownership is a capacious term, which serves as an umbrella for many rights that authorize entities for many different actions. Due to this reason, it is important to create the framework capable of providing granular definitions and enforcements for these authorizations. Renting of NFT described in these standards are only a small subset of such authorizations, which will be covered under Advanced Ownership Structure[^1].
+
+
+### Counterparty
+Simple yet flexible Counterparty standard adds the capability similar to ERC-721 to Bitcoin protocol, as well as ERC-1633: Fractional Ownership or Re-Fungible. the Unique metadata schemas are fully compatible with OpenSea standard[^1].
 
 ## Interoperability
 
@@ -216,6 +285,8 @@ Yes, you can list your token for sale any time on royal.
 One exciting part of purchasing music rights is that these assets may appreciate—artist and song popularity, token demand, extras, and more can all play a role in secondary pricing.
 Once you sell your token, royalty payouts and unclaimed extras will go to the new token owner[^4].
 
+Royalty advances are essential to musicians because they provide a source of upfront income before the actual royalties from music sales and streams start coming in. This can be particularly useful for musicians who are just starting out, or for established musicians who need financial support to produce new music, pay for promotional activities, or cover living expenses[^2].
+A royalty advance is similar to a loan that a record label or publishing company provides to a musician, based on their expected future earnings from music sales and streams. The advance is then recouped from the artist's future royalties. In other words, the artist repays the advance by dedicating a portion of their future earnings to the lender[^2].
 
 ## Label Management
 
@@ -238,7 +309,7 @@ The Collection owner may choose to allow non-privileged users to mint tokens in 
 
 ## Comparison of platforms
 
-[Appendix](Appendix/Appendix.md "jump to the appendix")
+[Appendix](https://armanriazi.github.io/mfs/Whitepaper/#appendix "jump to the appendix")
 
 ---
 
@@ -272,6 +343,9 @@ Having more features in a system shows that it has a competitive advantage. Beca
 `Fandom`
 -   Form a fandom culture that can increase the artist’s brand awareness.
 -   Encourage fans to spread the message that ‘the artist is popular.
+
+
+> The core functionality of the exchange would be implemented in asset layer and in the protocol layer of the DeFi stack.
 
 ## Actors 
 
@@ -347,14 +421,50 @@ Making voters accountable for the consequences of their actions by imposing pena
   
 ### Voting Governance Model
 Governance token holders can delegate their tokens to others (who do not even need to hold GT) to vote.Proposed platform will have the capability to propose (submit MFS Improvement Proposals, or MIPs) and vote.Participants must lock up their MFS (MFS DAO's governance token could called vote escrowed MFS/veMFS) by transferring them from their private wallets(On Polkadot known controller account) to the voting contract (from where they can be later withdrawn). MFS holders can lock their tokens so they can obtain veMFS in order to gain voting and proposal making powers. There is voting power minimum, but a user must have veMFS to create a proposal.
+(Imagine, The protocol uses a multi-DAO structure consisting of independent sub-DAOs that, combined, form the protocol governance. MFS holders can vote for changes, but decisions are sent, as a delegated transaction, to the Multisig, which either executes or vetoes the transaction.)
 
 ---
 
+## Features and Prerequisites
+
+|          X              |  DApplication |  Smart contract |          DAO         |
+|-------------------------|---------------|-----------------|----------------------|
+|     Prerequisites       |      All      | Framework, NFT  |  SC, Treasury, Token |
+|                         |               |    Libs, Token  | Improvement proposal |
+
+|       Features          |     DApp      |       SC        |           DAO        |
+|-------------------------|---------------|-----------------|----------------------|
+| Self-verifying          |               |       *         |                      |
+| Self-enforcing          |               |       *         |                      |
+| Self-executing          |       *       |       *         |           *          |
+| Upgradeable             |       *       |       *         |           *          |
+| Tamper-proof            |       *       |       *         |                      |
+| Security/reliability    |       *       |       *         |           *          |
+| Anti-Attack             |       -       |       *         |           *          |
+| Low Power consumption   |       *       |       *         |           *          |
+| Tokenization            |       *       |       *         |                      |
+| Solace of scalability   |       *       |       *         |                      |
+| Sustainability          |       *       |       *         |           *          |
+| Resilient               |               |       *         |                      |
+| Agnostic approach       |               |       *         |           *          |
+| Deterministic governance|               |       *         |           *          |
+| Community trust         |       *       |       *         |           *          |
+| Consensus threshold     |               |       *         |           *          |
+| Governance tokens(GT)   |       *       |       *         |           *          |
+| GT Earned               |               |       *         |           *          |
+| GT Minted               |               |       *         |           *          |
+| GT Gifted               |               |       *         |           *          |
+| GT Bought and sold      |               |       *         |           *          |
+
+`Gathered source: Internet`
+
+---
 
 ## Safe digital assets in a long-term sustainable way
 The frontend UI hosted on IPFS. It consists of several pages powered by ReactJS. There is an integrate with NFT Chain by means of Polkado{.js} browser extension, metamask and PolkadotJS API.
 DApp supports Web3 wallets so users can lend and borrow founds directly through their UI.
 Unique and Polkadot.js are easy-to-use wallet that are perfect for non-technical audiences who are storing assets, who love our white-label solution.
+
 
 ## Collection
 
@@ -364,7 +474,7 @@ Unique and Polkadot.js are easy-to-use wallet that are perfect for non-technical
 
 ### Management
 It is hard to overestimate the importance of Ownership in human society. Ownership defines the exclusive rights and control over the property. Thus property, ownership, and rights are one of the most important mankind essentials. It is important for one’s solid realization of the universe to build a correct and precise model of ownership and rights.
-Another important right that collection ownership gives is [administrator](Collection_Management/administrator.md) who is would be labeler. An administrator of collection is the account that has elevated privileges over common users, but slightly less than a collection owner. As such, only the collection owner can destroy the collection and add administrators. This permission level was mainly aimed to allow automated operations over collections, such as minting tokens on demand. Also, a [smart contract](/Smart_Contract/smartcontract.md) can serve as a collection administrator to allow advanced decentralized application logic such as Claiming free [MusicPunks](/Collection_of_App/MusicPunk.md)
+Another important right that collection ownership gives is [administrator](Collection_Management/administrator.md) who is would be labeler. An administrator of collection is the account that has elevated privileges over common users, but slightly less than a collection owner. As such, only the collection owner can destroy the collection and add administrators. This permission level was mainly aimed to allow automated operations over collections, such as minting tokens on demand. Also, a [smart contract](/Smart_Contract/smartcontract.md) can serve as a collection administrator to allow advanced decentralized application logic such as Claiming free [MusicPunks](/Collection_of_App/MusicPunk.md) , for example.
 
 
 ## Mint the NFTs
@@ -377,18 +487,23 @@ Burn MFS token-> Mint NFT
 The type of the marketplace is a crypto native curated marketplaces that require contributors to be approved to create NFTs and sell them on the platform. Similar to the open marketplaces, they require cryptocurrencies for payment, and have consumers custody the assets themselves.
 You don’t need to have deep blockchain knowledge to understand, build and enjoy our NFT, which allows for the safe and trustless exchange of NFT or RFT assets, sponsored transaction fees, subscriptions, and scheduled transactions.
 
+
+
 ## Fan Governance and Decision-Making
 NFTs can be used to enable fans to impact decisions and outcomes of the albums or a specific concert. labelers are starting to explore NFT assets that grant fans certain permissions, such as voting rights for team decisions, the ability to compete in events and leaderboards, and earning MFS rewards and VIP experiences linked to their teams.
+
 
 ## Ticketing
 In addition to being collectables, NFTs can be combined with event tickets to provide access to an event. These tickets can provide verifiable authenticity, provide royalties upon secondary sales or auctions, and even turn digital tickets into unique commemorative assets.
 
+
 ## Playlist
 Whether you’re showcasing past drops or highlighting your newest NFTs, the customization options and new tech integrations give you the option to choose how your visitors will view your work. 
 
+
 ## Properties
 #### Private and Public Minting
-DApp has inherited only public minting and creating an optional whitelist for actors to make limitations based on location, genres, sex, and age.
+DApp has inherited only public minting and creating an optional whitelist for A&R to make limitations based on location, genres, sex, and age. In addition, allowing the following schemas.
 
 ---
 
@@ -506,15 +621,25 @@ Due to NFTs are new, there is limited legal and regulatory clarity on how existi
 
 ## AI
 
-[AI](AI/AI.md) music generator outputs potentially infringe the rights of music copyright holders. Specifically, by up-sampling copyrighted works in finely encoded segments[^17].
+[AI](AI/AI.md) music generator outputs potentially infringe the rights of music copyright holders. Specifically, by up-sampling copyrighted works in finely encoded segments, AI music generators create tapestries of coherent audio from the works they ingest in training, thereby infringing the United States Copyright Act’s reproduction right[^17].
 Under English copyright law, works generated by AI, can theoretically be protected as works "generated by computer in circumstances such that there is no human author of the work".Under UK law, it is not clear which of the fixed categories of copyright 'works' would protect a voice[^18].
 
+When a track by artist "Ghostwriter" was uploaded and then promptly removed from streaming services in April, it was the latest example of one of 2023's most astonishing trends. The track 'heart on my sleeve' sounded like it was sung by two of the world's biggest stars, Drake and The Weeknd. In fact, it was actually someone who had used an AI tool to make his voice sound like theirs[^18].
 This moment presents an opportunity for technology companies and the music industry to avoid repeating past mistakes by addressing this new disruptive technology as partners, rather than opponents[^17].
+This great leap forward is made possible by the use of neural networks called variationally autoencoders (“VAEs”), which compress the cumbersome sequences of raw audio in lower-dimensional spaces where they can be efficiently processed without sacrificing structural perceptibility. The VAEs allow the audio to be analyzed at multiple compression levels to develop a holistic understanding of what is occurring in the music[^17].
 
-Characterizing the AI generator’s output as “original” is misleading, because doing so disregards the role that reproduction of copyrighted works plays in generating the sample. Accordingly, we must assess whether the mechanics of machine-learning music generators can be reconciled with the protections afforded creative authors under the Copyright Act[^17].
+the model reacts to the user’s inputs (i.e., artist, style, genre, etc.) by predicting how the respective musical elements should be redistributed, thereby generating a sample that is subsequently refined in stages from low-to-high levels of musical detail(“up-sampling”). Once the code is up-sampled to its most detailed level of musical abstraction, it is decoded back into raw audio, resulting in a new song containing the user’s desired qualities[^17].
+
+Once the code is up-sampled to its most detailed level of musical abstraction, it is decoded back into raw audio, resulting in a new song containing the user’s desired qualities. In sum, when a generative model is engaged to make a new work, the audio that manifests as output is merely a tapestry of up-sampled sound recording fragments manipulated to resemble something ostensibly novel. Thus characterizing the AI generator’s output as “original” is misleading, because doing so disregards the role that reproduction of copyrighted works plays in generating the sample. Accordingly, we must assess whether the mechanics of machine-learning music generators can be reconciled with the protections afforded creative authors under the Copyright Act[^17].
+
+Although research into AI music generation had already been ongoing for two decades prior to the enactment of the 1976 Copyright Act, it is unlikely that Congress envisioned machine learning as an approach to sophisticated music generation. The courts’ apparent inability to settle on a consistent reading of the Copyright Act with regard to digital sampling foreshadows the interpretive challenges that lie ahead in the AI era[^17].
+
+Sadly, recognition is not always tied to pecuniary benefit in the music business, and it cannot sustain the musician who requires financial security to continue creating[^17].
+
+Humans may find themselves helpless to compete in the market against the AI systems of tomorrow, which generate their wealth of musical know-how from the same human authors they are likely to displace. Accordingly, courts and policymakers must consider equitable, licensing-based solutions to promote a mutually beneficial AI music ecosystem for technology companies and copyright owners alike. AI may indeed someday change how music is created and consumed for the better, but we must take care not to disregard the significance of the human element in our haste to realize technology’s promise for the future[^17].
 
 One of the latest innovations in AI technology is deepfake vocal synthesisers which make a singer's voice sound like a famous artist or even tools which create a wholly synthetic voice[^18].
-When a track by artist "Ghostwriter" was uploaded and then promptly removed from streaming services in April, it was the latest example of one of 2023's most astonishing trends. The track 'heart on my sleeve' sounded like it was sung by two of the world's biggest stars, Drake and The Weeknd. In fact, it was actually someone who had used an AI tool to make his voice sound like theirs[^18].
+
 
 ---
 
@@ -537,14 +662,13 @@ The MFS team has extensive experience across all relevant sectors - from e-comme
 - [x] Active blockchain researcher and mentor
 - [x] Solutions architect within distributed/decentralized computing
 - [x] MSc, Information Technology
-
-
+  
 ---
 
 # Roadmap
-The research and development in MFS will be a continuous process with a result of miscellaneous PoCs and further implementation in MainNet or ecosystem tools in case if the corresponding research project succeeds. Advertising and inviting famous artists are parallel tasks during the season.
+The decision is made to build an on-chain marketplace PoC to facilitate safe trading, explore the possible dApp architectures, experiment with miscellaneous types of loads, and discover and overcome possible problems in a developer-friendly environment. The research and development in MFS will be a continuous process with a result of miscellaneous PoCs and further implementation in MainNet or ecosystem tools in case if the corresponding research project succeeds. Advertising and inviting famous artists are parallel tasks during the season.
 
-[Appendix(deal us to gain access)]("#")
+[Appendix](./Appendix/Appendix.md "jump to the appendix")
 
 <figure markdown>
 ![New intermediaries needed for all non-native assets](./assets/token-pillar.JPG){ width="600" height="400" align=center }
@@ -556,18 +680,20 @@ The research and development in MFS will be a continuous process with a result o
 - [x] Project planning
 - [x] White and yellow paper
 - [ ] Private fund-rising
-- [x] Team up & Relocation
+- [x] Team up & Relocation 
 - [ ] Providing infrastructure for remote working
 
 ## 4Q 2023
-- [ ] Release of MFS DApp Marketplace
+- [ ] Release of MFS DApp Marketplace:Alpha
+- [ ] Release of MFS DApp Marketplace:Beta
 - [ ] Music Distribution
 
 ## 1Q 2024
 - [ ] Playlist
 - [ ] Supporting music streaming, downloading service
 - [ ] Launching LCL service
-- [ ] Tokenization, Presale
+- [ ] Tokenization
+- [ ] Presale
 - [ ] Royalty management
 
 ## 2Q 2024
@@ -582,17 +708,32 @@ The research and development in MFS will be a continuous process with a result o
 ## 4Q 2024
 - [ ] Launching EEC service
 - [ ] Data Analytics
-- [ ] Maximize services and token utilization
+- [ ] Maximize services utilization
+- [ ] Maximize token utilization
 
 ## 1Q 2025
-- [ ] Supporting token payment service by mobile APP
-- [ ] Release of MFS Mobile DApp Marketplace
+- [ ] Supporting token payment service by mobile APP (iOS & Android)
+- [ ] Release of MFS Mobile DApp Marketplace:Alpha
+- [ ] Release of MFS Mobile DApp Marketplace:Beta
 
 ---
 
+
 # Future work
 
-MFSgotchi
+## MFSgotchi
+
+## Possibility of future work
+
+### Video music
+### NFT Composability
+### Lending FINANCIAL SERVICE
+#### Undercollateralized loans for singers
+### Utility Across Metaverses
+### Bimodal Music Subject Classification
+### Engagement and Usability of Conversational Search
+### The Moderating Effect of Active Engagement on Appreciation of Popularity in Song Recommendations
+### Linked NFTs
 
 ---
 
@@ -643,12 +784,25 @@ M2E Music-To-Earn
 
 MFS (Name of DApp-till register company)
 
+---
+
+# Appendix 
+
+<figure markdown>
+![Architecture](./assets/comparison-platforms-main.JPG){align=center }
+<figcaption>Fig 7. Proposed Architecture</figcaption>
+</figure>
+
+<figure markdown>
+![Architecture](./assets/comparison-platforms-2.JPG){align=center }
+<figcaption>Fig 8. Proposed Architecture</figcaption>
+</figure>
 
 ---
 
 # References
 
-[six reference]: Disabled means it has been excluded from the whitepaper but not the full version of the main paper.
+Disabled references mean it has been excluded from the whitepaper but not the full version of the main paper.
 
 [^1]: [Unique Network Technical Paper](https://github.com/UniqueNetwork/techpaper)
 
@@ -658,11 +812,23 @@ MFS (Name of DApp-till register company)
 
 [^4]: Invest in music. (n.d.). Royal.Io. Retrieved June 5, 2023, from https://royal.io/
 
+[^5]: Disabled
+
 [^6]: [Visa NFT Whitepaper](https://usa.visa.com/content/dam/VCOM/regional/na/us/Solutions/documents/visa-nft-whitepaper.pdf)
+
+[^7]: Disabled
 
 [^8]: [Smart Contracts: 12 Use Cases for Business & Beyond](https://github.com/bellaj/Blockchain/blob/master/Smart%20Contracts%20-%2012%20Use%20Cases%20for%20Business%20and%20Beyond%20-%20Chamber%20of%20Digital%20Commerce.pdf)
 
+[^9]: Disabled
+
 [^10]: Hewa, T. M., Hu, Y., Liyanage, M., Kanhare, S. S., & Ylianttila, M. (2021). Survey on blockchain-based smart contracts: Technical aspects and future research. IEEE Access: Practical Innovations, Open Solutions, 9, 87643–87662. https://doi.org/gn8f8x
+
+[^11]: Disabled
+
+[^12]: Disabled
+
+[^13]: Disabled
 
 [^14]: Lam, L., & Seidel, M.-D. L. (2020). Hypergrowth exit mindset: Destroying societal wellbeing through venture capital biased social construction of value. Journal of Management Inquiry, 29(4), 471–474. https://doi.org/ghf56f
 
@@ -677,6 +843,7 @@ MFS (Name of DApp-till register company)
 [^19]: van Pelt, R., Jansen, S., Baars, D., & Overbeek, S. (2021). Defining blockchain governance: A framework for analysis and comparison. Information Systems Management, 38(1), 21–41. https://doi.org/gm2m6b
 
 [^20]: Gavin, W. (2016). Whitepaper [Polkadot.network/whitepaper](https://polkadot.network/whitepaper/)
+
 
 
 
