@@ -39,9 +39,6 @@ They are engaged in the development of the platform in different positions. Some
         <img src="https://aramis-tech.github.io/assets/knight/Abhiraj_Mengad.JPG" alt="Abhiraj Mengad" width="100" height="150"  class="center"/><blockquote>Abhiraj Mengad, FrontEnd Developer</blockquote>
     </div>
     <div class="column">
-        <img src="https://aramis-tech.github.io/assets/knight/Kianoush_Dortaj.jpg" alt="Kianoush Dortaj" width="100" height="150"  class="center"/><blockquote>Kianoush Dortaj, Blockchain Developer</blockquote>
-    </div>
-    <div class="column">
         <img src="https://aramis-tech.github.io/assets/add-image.png" alt="Add yourself here" width="100" height="150"  class="center"/>
     </div>
   </div>
@@ -49,7 +46,7 @@ They are engaged in the development of the platform in different positions. Some
 
 <details>
   <summary>Army</summary>    
-  <div class="row">
+  <!-- <div class="row">
     <div class="column">
     <img src="https://aramis-tech.github.io/assets/army/davide_de_cristofano.JPG" width="100" height="150"  class="center"/><blockquote>Davide D.Cristofano, Musician.💌dcrdvd92@gmail.com 🤝</blockquote>
     </div>
@@ -70,5 +67,5 @@ They are engaged in the development of the platform in different positions. Some
     <div class="column">
         <img src="https://aramis-tech.github.io/assets/army/usman_peerzada.JPG" alt="Add yourself here" width="100" height="150"  class="center"/><blockquote>Peerzada Usman, Social Media.💌Usman_peerzada@hotmail.com 🤝</blockquote>
     </div>
-  </div>
+  </div> -->
 </details>
