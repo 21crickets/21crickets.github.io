@@ -29,7 +29,7 @@ title: "Partnerships"
         <img src="https://avatars.githubusercontent.com/u/87804347?s=200&v=4" alt="unique.network a parachain of Polkadot" width="100" height="150"  class="center"/><blockquote>Unique Network.💬</blockquote>
     </div>
     <div class="column">
-        <img src="https://aramis-tech.github.io/assets/partnerships/br-group.JPG" alt="A leading PR agency in blockchain" width="100" height="150"  class="center"/><blockquote>BR Group.💬</blockquote>
+        <img src="https://aramis-tech.github.io/assets/partnerships/brgroup.JPG" alt="A leading PR agency in blockchain" width="100" height="150"  class="center"/><blockquote>BR Group.💬</blockquote>
     </div>
 </div>
 </details>
