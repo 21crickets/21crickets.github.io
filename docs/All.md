@@ -6,7 +6,7 @@ title: "Technical"
 ---
 
 
-![knowledge Graph](./assets/foam.JPG){ width="800" height="600" align=center }
+![knowledge Graph](./assets/paper_images/foam.JPG){ width="800" height="600" align=center }
 
 ---
 
@@ -34,7 +34,7 @@ Nowadays, with the development of technology, we observe an increase in the numb
 Whether you’re a singer, artist, labeler, composer, investor, or simply interested in the blockchain space, there is something new for everyone in the platform. A platform that helps you protect, publish, and monetize your music, while offering transparency and insights on reach, performance, and earnings. The MFS suite of apps consists of various solutions tailored to specific needs. Browse our website to read more about all the features, and feel welcome to register your free account. MFS is the swiss army knife for any music professional.
 For the music industry, AI technology is more like a thread than a benefit. e.g., deepfake vocal synthesisers, which make a singer's voice sound like that of a famous artist. Who knows, maybe in the near future we will have a tool called MusicGPT!
 At present, there is an opportunity for technology companies and the music industry to avoid repeating past mistakes by considering new technologies, and blockchain is the only solution for making legislation with democracy. 
-The proposed work has an engineering journey to reach lucrative revenue streams with non-fungible assets. Unlike any other music distribution platform out there, we also allow our users to distribute music to innovative new outlets. By effortlessly creating NFT collections of your release catalogue, you can enter the world of "Web3", unlock revolutionary ways to engage with fans, and tap into new income streams.
+The proposed work has an engineering journey to reach lucrative revenue streams with non-fungible assets/paper_images. Unlike any other music distribution platform out there, we also allow our users to distribute music to innovative new outlets. By effortlessly creating NFT collections of your release catalogue, you can enter the world of "Web3", unlock revolutionary ways to engage with fans, and tap into new income streams.
 
 Keywords: NFT, Music, Audio, DApp, Musical sophistication, Active engagement, Blanket licensing
 
@@ -47,7 +47,7 @@ Blockchain, which is a technology for building distributed ledgers that provide 
 Blockchain-agnostic protocols enable cross-blockchain or cross-chain communication between arbitrary distributed ledger technologies[^16].
 
 <figure markdown>
-![DAPP-Cross Chain](./assets/dapp-crosschain.JPG){ width="400" height="200" align=center }
+![DAPP-Cross Chain](./assets/paper_images/dapp-crosschain.JPG){ width="400" height="200" align=center }
 <figcaption>Fig 1. Blockchain Use Cases[16]</figcaption>
 </figure>
 
@@ -59,7 +59,7 @@ Unlike cryptocurrency, NFTs are not fungible, meaning each NFT is unique and not
 ## Polkadot
 
 <figure markdown>
-![Polkadot Stack](./assets/polka-stack.JPG){ width="300" height="350" align=center }
+![Polkadot Stack](./assets/paper_images/polka-stack.JPG){ width="300" height="350" align=center }
 <figcaption>Fig 2. Polkadot Stack[16]</figcaption>
 </figure>
 
@@ -69,7 +69,7 @@ Upgrading conventional blockchains requires forking the network, often taking mo
 the need to fork the chain. These forkless upgrades are enacted through Polkadot’s transparent on-chain governance system[^20].
 
 <figure markdown>
-![Polkadot Interaction](./assets/polka-interaction.JPG){ width="600" height="400" align=center }
+![Polkadot Interaction](./assets/paper_images/polka-interaction.JPG){ width="600" height="400" align=center }
 <figcaption>Fig 3. The interaction between the four roles of Polkadot[20]</figcaption>
 </figure>
 
@@ -81,7 +81,7 @@ Unique Network blockchain in the Polkadot ecosystem can be seen as a foundation 
 2.  EVM/Ethereum Smart Contracts
 
 <figure markdown>
-![Unique Network](./assets/unq-chain.JPG){ width="600" height="400" align=center }
+![Unique Network](./assets/paper_images/unq-chain.JPG){ width="600" height="400" align=center }
 <figcaption>Fig 4. Unique Network[1]</figcaption>
 </figure>
 
@@ -168,7 +168,7 @@ Smart Contracts have benefits and considerations in three area includes: digital
 2. Automated compliance
 3. Monitoring of Letter of Credit conditions
 4. Transport-related contract agreements
-5. Increased liquidity of financial assets due to ease of transfer and fraud reduction
+5. Increased liquidity of financial assets/paper_images due to ease of transfer and fraud reduction
    
 #### Considerations
 1. Wider acceptability and adoption
@@ -191,7 +191,7 @@ Unlike physical goods, NFTs are trackable so it can be possible to see what wall
 Because NFTs enable digital scarcity, brands can sell exclusive, limited digital goods. Unlike physical goods, NFTs can include a smart contract that codes in a royalty percentage designated by the content creator. As such, subsequent sales or auctions of the NFT can generate revenue for the original NFT creator, providing an ongoing potential revenue stream as it is sold or auctioned[^6].
 
 ### Collectibles
-The digital scarcity that NFTs enable is a natural NFT for collectibles or assets whose value is dependent on there being limited supply. Some of the earliest NFT use cases include CryptoKitties3 and CryptoPunks4 (10,000 unique pixelated characters), with individual CryptoPunk NFTs like Covid Alien selling for $11.75 million5. More recently, popular brands are creating NFT-based collectibles, like NBA Top Shot moments, which are digital basketball cards, but instead of static images, these NFTs contain video highlight moments from NBA games[^6].
+The digital scarcity that NFTs enable is a natural NFT for collectibles or assets/paper_images whose value is dependent on there being limited supply. Some of the earliest NFT use cases include CryptoKitties3 and CryptoPunks4 (10,000 unique pixelated characters), with individual CryptoPunk NFTs like Covid Alien selling for $11.75 million5. More recently, popular brands are creating NFT-based collectibles, like NBA Top Shot moments, which are digital basketball cards, but instead of static images, these NFTs contain video highlight moments from NBA games[^6].
 
 ### Art
 NFTs enable artists to sell their work in its natural form factor as opposed to having to print and sell pieces of art. Additionally, unlike with physical art, the artist can receive revenue upon secondary sales or auctions, thereby ensuring they are recognized for their original creations in subsequent transactions. NFT marketplaces devoted to art-based NFTs, such as Nifty Gateway, sold/auctioned over $100M of digital art in March 2021[^6].
@@ -303,7 +303,7 @@ In the DeFi and blockchain space, governance, decision-making and operations are
 The BG framework, defining the governance structure of a blockchain as a combination between six governance dimensions, and three governance layers[^19].
 
 <figure markdown>
-![DAO](./assets/DAO.JPG){ width="600" height="500" align=center }
+![DAO](./assets/paper_images/DAO.JPG){ width="600" height="500" align=center }
 <figcaption>Fig 5. DAO[15]</figcaption>
 </figure>
 
@@ -324,7 +324,7 @@ Once available, you’ll claim your royalties in your Royal dashboard by transfe
 
 ### Can I sell my token?
 Yes, you can list your token for sale any time on royal.
-One exciting part of purchasing music rights is that these assets may appreciate—artist and song popularity, token demand, extras, and more can all play a role in secondary pricing.
+One exciting part of purchasing music rights is that these assets/paper_images may appreciate—artist and song popularity, token demand, extras, and more can all play a role in secondary pricing.
 Once you sell your token, royalty payouts and unclaimed extras will go to the new token owner[^4].
 
 Royalty advances are essential to musicians because they provide a source of upfront income before the actual royalties from music sales and streams start coming in. This can be particularly useful for musicians who are just starting out, or for established musicians who need financial support to produce new music, pay for promotional activities, or cover living expenses[^2].
@@ -441,7 +441,7 @@ A&R mint a podcast or singer practices what it promotes and issues free NFTs to 
 ## Proposed Architecture
 
 <figure markdown>
-![Architecture](./assets/architecture.JPG){ width="800" height="600" align=center }
+![Architecture](./assets/paper_images/architecture.JPG){ width="800" height="600" align=center }
 <figcaption>Fig 6. Proposed Architecture</figcaption>
 </figure>
 
@@ -503,10 +503,10 @@ Governance token holders can delegate their tokens to others (who do not even ne
 
 ---
 
-## Safe digital assets in a long-term sustainable way
+## Safe digital assets/paper_images in a long-term sustainable way
 The frontend UI hosted on IPFS. It consists of several pages powered by ReactJS. There is an integrate with NFT Chain by means of Polkado{.js} browser extension, metamask and PolkadotJS API.
 DApp supports Web3 wallets so users can lend and borrow founds directly through their UI.
-Unique and Polkadot.js are easy-to-use wallet that are perfect for non-technical audiences who are storing assets, who love our white-label solution.
+Unique and Polkadot.js are easy-to-use wallet that are perfect for non-technical audiences who are storing assets/paper_images, who love our white-label solution.
 
 
 ## Collection
@@ -527,17 +527,17 @@ On MFS DApp, creating NFT collections is easy, free, and secure, without ever ne
 Burn MFS token-> Mint NFT
 
 ## Marketplace
-The type of the marketplace is a crypto native curated marketplaces that require contributors to be approved to create NFTs and sell them on the platform. Similar to the open marketplaces, they require cryptocurrencies for payment, and have consumers custody the assets themselves.
-You don’t need to have deep blockchain knowledge to understand, build and enjoy our NFT, which allows for the safe and trustless exchange of NFT or RFT assets, sponsored transaction fees, subscriptions, and scheduled transactions.
+The type of the marketplace is a crypto native curated marketplaces that require contributors to be approved to create NFTs and sell them on the platform. Similar to the open marketplaces, they require cryptocurrencies for payment, and have consumers custody the assets/paper_images themselves.
+You don’t need to have deep blockchain knowledge to understand, build and enjoy our NFT, which allows for the safe and trustless exchange of NFT or RFT assets/paper_images, sponsored transaction fees, subscriptions, and scheduled transactions.
 
 
 
 ## Fan Governance and Decision-Making
-NFTs can be used to enable fans to impact decisions and outcomes of the albums or a specific concert. labelers are starting to explore NFT assets that grant fans certain permissions, such as voting rights for team decisions, the ability to compete in events and leaderboards, and earning MFS rewards and VIP experiences linked to their teams.
+NFTs can be used to enable fans to impact decisions and outcomes of the albums or a specific concert. labelers are starting to explore NFT assets/paper_images that grant fans certain permissions, such as voting rights for team decisions, the ability to compete in events and leaderboards, and earning MFS rewards and VIP experiences linked to their teams.
 
 
 ## Ticketing
-In addition to being collectables, NFTs can be combined with event tickets to provide access to an event. These tickets can provide verifiable authenticity, provide royalties upon secondary sales or auctions, and even turn digital tickets into unique commemorative assets.
+In addition to being collectables, NFTs can be combined with event tickets to provide access to an event. These tickets can provide verifiable authenticity, provide royalties upon secondary sales or auctions, and even turn digital tickets into unique commemorative assets/paper_images.
 
 
 ## Playlist
@@ -555,7 +555,7 @@ DApp has inherited only public minting and creating an optional whitelist for A&
 
 ---
 
-## The next phase of digitizing art assets
+## The next phase of digitizing art assets/paper_images
 
 ### Benefits
 - [x] Ease of use. Tokens are trivially created, stored, traded
@@ -564,7 +564,7 @@ DApp has inherited only public minting and creating an optional whitelist for A&
 - [x] Market efficiency. Tokenization may smooth out boom-and-bust cycles of illiquid markets by making them more liquid and organized.
 
 ### Challenges
-- [x] Generally, not decentralized: intermediaries will ALWAYS be needed for non-native assets.
+- [x] Generally, not decentralized: intermediaries will ALWAYS be needed for non-native assets/paper_images.
 - [x] Legal recognition
 
 
@@ -598,12 +598,12 @@ Think of tokens like a stock, which builds value from…
 ### Token distribution
 
 <figure markdown>
-![Token distribution](./assets/token-distribution.JPG){ width="600" height="600" align=center }
+![Token distribution](./assets/paper_images/token-distribution.JPG){ width="600" height="600" align=center }
 <figcaption>Fig 7. MFS Token distribution</figcaption>
 </figure>
 
 
-## Deal with digital assets in a long-term sustainable way
+## Deal with digital assets/paper_images in a long-term sustainable way
 ### Liquidity Provider (LP) Tokens
 LP tokens represent shares in liquidity pools, used in decentralized exchanges.
 ### The MFS Staking
@@ -618,7 +618,7 @@ There are usually three different types of auctions to choose from:
 
 
 ## Platform Infrastructure Costs
-Operating a proprietary marketplace rather than leveraging an existing marketplace can provide additional control over the assets, where the files are stored, and how they are consumed, but comes with additional costs. In addition to marketplace sale or auction fees and transaction costs, there are other infrastructure costs like payment acceptance and custody.
+Operating a proprietary marketplace rather than leveraging an existing marketplace can provide additional control over the assets/paper_images, where the files are stored, and how they are consumed, but comes with additional costs. In addition to marketplace sale or auction fees and transaction costs, there are other infrastructure costs like payment acceptance and custody.
 The NFT marketplace charge a fee when sales or auctions occur on the application, usually ranging between 1% to 3% while there is fee 5% in so many NFT platforms.
 
 
@@ -650,7 +650,7 @@ We provide a feature for users who can generate a music by writing code and then
 Finally, the live producer can mint an NFT for the exported fresh code!
 
 <figure markdown>
-![Sample produce of Live code](assets/sample-audio1.JPG){ width="600" height="400" align=center }
+![Sample produce of Live code](assets/paper_images/sample-audio1.JPG){ width="600" height="400" align=center }
 <figcaption>Fig 8. Sample live code-Generate sounds</figcaption>
 </figure>
 
@@ -665,7 +665,7 @@ Due to our unique blockchain network capabilities, we have the ability to fracta
 Exit! Exit! Exit! Our innovation ecosystems are focused on this goal above all else, thanks to the reliance on venture capital. Young potential entrepreneurs talk about exit strategies before even creating an innovation or starting a business. Our innovation ecosystems push them to do so in many ways. Seemingly straightforward questions to budding entrepreneurs such as “What is your exit strategy?” drastically shift focus and outcomes away from creating long–term societally beneficial innovations. We argue that this hypergrowth exit mindset is destroying societal wellbeing due to its laser focus on increasing socially constructed exit value above all else[^14]. 
 
 ## Risk Management
-Many NFTs have high monetary value and given their exchange velocity (digital assets can be exchanged much more quickly than physical assets), there is opportunity for fraudulent activity. To minimize this risk, NFT platforms should leverage KYC and AML procedures, as well as security best practices like two-factor authentication[^6].
+Many NFTs have high monetary value and given their exchange velocity (digital assets/paper_images can be exchanged much more quickly than physical assets/paper_images), there is opportunity for fraudulent activity. To minimize this risk, NFT platforms should leverage KYC and AML procedures, as well as security best practices like two-factor authentication[^6].
 
 ## Licensing and T&Cs
 It is important to be clear what rights are bestowed to owners of the NFTs, and whether these are the same or separate from the rights associated with the material object the NFT refers to. These terms are generally provided contractually in Terms and Conditions from the creator or the ecosystem operator’s platform rules. Brands with strong IP generally retain all the rights, allowing very limited rights for personal use, while newer crypto-native projects may provide owners greater commercial rights[^6].
@@ -701,7 +701,7 @@ One of the latest innovations in AI technology is deepfake vocal synthesisers wh
 The MFS team has extensive experience across all relevant sectors - from e-commerce, to cryptocurrency, marketing, blockchain, music production, and web application. Crucially, the team has ”done this before”, and possesses all the experience needed to realize MFS.
 
 <figure markdown>
-![MFS Chart](assets/mfs-chart.JPG){ width="600" height="400" align=center }
+![MFS Chart](assets/paper_images/mfs-chart.JPG){ width="600" height="400" align=center }
 <figcaption>Fig 9. MFS HR-Chart</figcaption>
 </figure>
 
@@ -727,7 +727,7 @@ The decision is made to build an on-chain marketplace PoC to facilitate safe tra
 [Appendix](./Appendix/Appendix.md "jump to the appendix")
 
 <figure markdown>
-![New intermediaries needed for all non-native assets](./assets/token-pillar.JPG){ width="600" height="400" align=center }
+![New intermediaries needed for all non-native assets/paper_images](./assets/paper_images/token-pillar.JPG){ width="600" height="400" align=center }
 <figcaption>Fig 10. Finance stack[15]</figcaption>
 </figure>
 
@@ -810,7 +810,7 @@ There are several major types of the relationship: Association, composition, agg
 - [ ] Holders of the protocol’s governance token (DMFS) can submit and vote on governance proposals. The governance token also serves as investment in the DAO: DMFS’s revenues (e.g. interest received from loans) are used to buy back and burn DMFS tokens, thereby creating deflationary dynamics to the value of the DMFS token.
 - [ ] Depositors provide liquidity to earn passive income (yield) Borrowers tap on this liquidity to borrow perpetually (overcollateralized loans) or in single blocks (undercollateralized flash loans).
 - [ ] Interest rates are set algorithmically: if an asset is in short supply, rates increase to incentivize lenders to contribute more; if there is plentiful supply, rates decrease to encourage borrowers to take out loans.
-- [ ] Depositors can supply assets to supply markets In exchange, they receive mfsTokens, which generate yield.
+- [ ] Depositors can supply assets/paper_images to supply markets In exchange, they receive mfsTokens, which generate yield.
 - [ ] Borrowers post collateral and can borrow on stable or variable interest rates, which are algorithmically determined based on supply demand for each asset.
 - [ ] Liquidators receive rewards (bonuses) for stepping in to repay loans with a limited health factor.
 
@@ -828,7 +828,7 @@ This work presents a bimodal music subject classification method that uses two d
 More recently, Choi et al. discovered that user-generated interpretation data is more useful than song lyrics and proposed a bimodal system that benefits from both lyrics and interpretations. This kind of approach showed the potential of using people’s interpretation of song lyrics as an alternative source of subject-related information. The bimodal system verified that interpretations are more useful than song lyrics, while the combination of the two only slightly[^11].
 
 <figure markdown>
-![BERT model](assets/Classification-Lyrics.JPG){ width="800" height=600" align=center }
+![BERT model](assets/paper_images/Classification-Lyrics.JPG){ width="800" height=600" align=center }
 <figcaption>Fig 11. The proposed bimodal classification framework using two BERT classifiers on the lyrics and interpretation input streams. The fusion of the modalities is performed as a part of the training process by defining the ensemble weight α as a trainable parameter[11].</figcaption>
 </figure>
 
@@ -837,7 +837,7 @@ More recently, Choi et al. discovered that user-generated interpretation data is
 conversations consisted of a searcher, who was given a search task, and an intermediary who had access to the internet and was tasked to follow the searcher’s directions and provide feedback only via voice. These conversation recordings are created to help to establish requirements for an optimal conversational search system and demonstrate users’ desires for an aligned discourse with conversational interfaces. Alignment means that the user and the system can match each other’s style of communication in terms of involvement (chit-chattiness, verbosity, enthusiasm) or considerateness (more listening, hesitance,independence). If alignment succeeds, then task execution becomes more efficient[^12].
 
 <figure markdown>
-![Search-Data collected](assets/Search.JPG){ width="800" height="600" align=center }
+![Search-Data collected](assets/paper_images/Search.JPG){ width="800" height="600" align=center }
 <figcaption>Fig. 12. Experimental setup: the measurement tools used and the type of data collected[12].</figcaption>
 </figure>
 
@@ -847,7 +847,7 @@ Research has demonstrated that different types of users have different needs whe
 The results showed differences between low and high active engagement listeners in terms of how popularity affects satisfaction with the playlist and how this effect can be explained through familiarity and discovery. For listeners with low active engagement, familiar music prevented them from reflecting on their musical taste (i.e., broadening and/or deepening), so popular music is concluded to only contribute to discovery when low engagement listeners are unfamiliar with the tracks. For them, no effect was found of familiar tracks on the discovery their musical taste. This implies that experts are better able to disregard their familiarity with songs when using them to discover their own personal musical taste[^13].
 
 <figure markdown>
-![Search-Data collected](assets/Active-Engagement.JPG){ width="600" height="400" align=center }
+![Search-Data collected](assets/paper_images/Active-Engagement.JPG){ width="600" height="400" align=center }
 <figcaption>Fig. 13. Multigroup SEMs for participants with high (upper figure) and low (lower) active engagement. Numbers next to the arrows describe standardized coefficients and standard error (between parentheses). Significance is included (∗p < 0.05; ∗∗p < 0.01;∗∗∗p < 0.005). Subjective factors in the models represent: Perceived Popularity, Familiarity, Discovery, and Satisfaction[13].
 </figcaption>
 </figure>
@@ -855,10 +855,10 @@ The results showed differences between low and high active engagement listeners 
 
 ### Knowledge Graph
 
-Two key requirements necessary for such Web3 infrastructure are the ability to ensure trust via decentralized consensus and utilize semantic, verifiable asset data for representing complex real world relationships and characteristics (such as ownership, location, business context, etc). Knowledge graphs on the other hand are semantic data networks. Powering systems of Google, NASA, Amazon and others, knowledge graphs are connected graph data structures, best for representing complex assets and their relationships in the real world[^5].
+Two key requirements necessary for such Web3 infrastructure are the ability to ensure trust via decentralized consensus and utilize semantic, verifiable asset data for representing complex real world relationships and characteristics (such as ownership, location, business context, etc). Knowledge graphs on the other hand are semantic data networks. Powering systems of Google, NASA, Amazon and others, knowledge graphs are connected graph data structures, best for representing complex assets/paper_images and their relationships in the real world[^5].
 
 <figure markdown>
-![NFT Knowledge-Graph](assets/knowledge-graph-finale.png){ width="600" height="400" align=center }
+![NFT Knowledge-Graph](assets/paper_images/knowledge-graph-finale.png){ width="600" height="400" align=center }
 <figcaption>Fig. 14. The knowledge graphs’ key characteristics[5].</figcaption>
 </figure>
 
@@ -934,12 +934,12 @@ MFS (Name of DApp-till register company)
 # Appendix 
 
 <figure markdown>
-![Architecture](./assets/comparison-platforms-main.JPG){align=center }
+![Architecture](./assets/paper_images/comparison-platforms-main.JPG){align=center }
 <figcaption>Fig 15. Proposed Architecture</figcaption>
 </figure>
 
 <figure markdown>
-![Architecture](./assets/comparison-platforms-2.JPG){align=center }
+![Architecture](./assets/paper_images/comparison-platforms-2.JPG){align=center }
 <figcaption>Fig 16. Proposed Architecture</figcaption>
 </figure>
 
@@ -955,7 +955,7 @@ MFS (Name of DApp-till register company)
 
 [^4]: Invest in music. (n.d.). Royal.Io. Retrieved June 5, 2023, from https://royal.io/
 
-[^5]: OriginTrail Parachain — Bringing real world assets to Polkadot. (n.d.). Origintrail.Io. Retrieved May 30, 2023, from https://parachain.origintrail.io/whitepaper
+[^5]: OriginTrail Parachain — Bringing real world assets/paper_images to Polkadot. (n.d.). Origintrail.Io. Retrieved May 30, 2023, from https://parachain.origintrail.io/whitepaper
 
 [^6]: [Visa NFT Whitepaper](https://usa.visa.com/content/dam/VCOM/regional/na/us/Solutions/documents/visa-nft-whitepaper.pdf)
 
