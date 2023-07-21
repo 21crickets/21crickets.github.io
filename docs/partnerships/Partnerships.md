@@ -36,8 +36,13 @@ title: "Partnerships"
 <details>
   <summary>Development & Provider</summary>
 <div class="row">
+    <!--
     <div class="column">
         <img src="https://aramis-tech.github.io/assets/partnerships/crypton_studio.JPG"  width="100" height="150"  class="center"/><blockquote>Crypton.Studio.💬</blockquote>
+    </div>
+    -->
+    <div class="column">
+        <img src="https://aramis-tech.github.io/assets/add-image.png" alt="Add yourself here" width="100" height="150"  class="center"/>
     </div>
     <div class="column">
         <img src="https://aramis-tech.github.io/assets/add-image.png" alt="Add yourself here" width="100" height="150"  class="center"/>
