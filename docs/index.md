@@ -37,7 +37,11 @@ title: "Index"
 
 # Papers
 
+The whitepaper is under publishing but you can get it by sending an email. Because of scammer attacks, I can not mention the chapter of book and publisher. we are working on our solution without pay attention to our competitors. Even it is good news that show that how competitors find power-full of our work. In fact, we do not have competitors because all strategies and technical works are really unique in the industry.
+
+<!--
 ## Whitepaper-stable-version v0.1.0-june-2023
+
 
 - [x] [Public/Limited Whitepaper(Pdf)](https://drive.google.com/file/d/1MzfAVVbeF8C-G73cEpEcAVGu4dwY9yny/view?usp=sharing)
 
@@ -59,6 +63,8 @@ title: "Index"
 > Backup method: Papers are available only for persons that sent a email to: `armanriyazi.github.io@gmail.com` with title: `Request Technical or full Paper-armanriyazi.github.io`
 
 > Presented with respects
+
+-->
 
 # Contact
 
