@@ -37,7 +37,9 @@ title: "Index"
 
 # Papers
 
-The whitepaper is under publishing but you can get it by sending an email. Because of scammer attacks, I can not mention the chapter of book and publisher. we are working on our solution without pay attention to our competitors. Even it is good news that show how competitors have been found power-full of our work. In fact, we do not have competitors because all strategies and technical works are really unique in the industry.:. We are appreciated to have you here so please bookmark our link and to be keep tune. 
+The whitepaper is under publishing but you can get it by sending an email. Because of scammer attacks, I can not mention the chapter of book and publisher. we are working on our solution without pay attention to our competitors. Even it is good news that show how competitors have been found power-full of our work. In fact, we do not have competitors because all strategies and technical works are really unique in the industry.:. We are appreciated to have you here so please bookmark our link and to be keep tune ❤️. We can not change culture of people but we can do our own solitary-figure business. 
+
+> Nowadays, Technical knowledge is accessible for all people even for persons that have not read a book in their life. Mindset is something that is not accessible for anybody so we severe discipline of hard work and the tempering heat of experience and maturity.
 
 <!--
 ## Whitepaper-stable-version v0.1.0-june-2023
