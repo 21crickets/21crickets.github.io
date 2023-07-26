@@ -116,7 +116,7 @@ generate new sources of value for both musicians and listeners. We aim to contin
 <a href="https://app.fossa.com/projects/git%2Bgithub.com%2Farmanriazi%2Fmfs?ref=badge_large" alt="FOSSA Status"><img src="https://app.fossa.com/api/projects/git%2Bgithub.com%2Farmanriazi%2Fmfs.svg?type=large"/></a>
 
 <!--
-- *[Aramistech-MFS(zendo community)](https://zenodo.org/communities/aramistech-mfs)*
+- *[21Crickets-MFS(zendo community)](https://zenodo.org/communities/21Crickets-mfs)*
 
 
 - *[InterRegEurope](https://www.interregeurope.eu/project-ideas/nft-music-platform)*
@@ -124,6 +124,6 @@ generate new sources of value for both musicians and listeners. We aim to contin
 - *[Metaverse Space. A.R](https://oncyber.io/spaces/KDVwdvMNh569X8RzLwoV)*
 -->
 
-- *[AramisTech-Logo](./assets/logo/)*
+- *[21Crickets-Logo](./assets/logo/)*
   > Add the name of file to the link: 
-  > AramisTech-Logo{0-9}.{png/jpg}
+  > 21Crickets-Logo{0-9}.{png/jpg}

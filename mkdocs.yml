@@ -1,6 +1,6 @@
 ## yaml-language-server: $schema=https://armanriazi.github.io/mkdocs-material/schema.json
 
-site_name: AramisTech
+site_name: 21Crickets
 repo_url: https://github.com/armanriazi
 nav:    
     - 'Home':
@@ -175,7 +175,7 @@ extra:
   social:
     - icon: fontawesome/brands/twitter 
       link: https://twitter.com/21crickets
-      name: AramisTech on Twitter
+      name: 21Crickets on Twitter
     - icon: fontawesome/brands/github
       link: https://github.com/armanriazi
     - icon: fontawesome/brands/linkedin

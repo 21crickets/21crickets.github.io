@@ -6,7 +6,7 @@ title: "News & Report"
 ---
 
 <figure markdown>
-![Cricket](../assets/logo/AramisTech-Logo3.jpg){ width="400" height="50" align=center }
+![Cricket](../assets/logo/21Crickets-Logo3.jpg){ width="400" height="50" align=center }
 <figcaption>As merry as a mars cricket</figcaption>
 </figure>
 
@@ -21,10 +21,10 @@ title: "News & Report"
 
 ## 10/2023
 ### Listed in the Wellfound
-We created a company profile in the [wellfound](https://wellfound.com/company/aramistech) and publish a new [jobs](https://wellfound.com/company/aramistech/jobs). We are in the process of [fundraising](https://wellfound.com/company/aramistech/funding)
+We created a company profile in the [wellfound](https://wellfound.com/company/21Crickets) and publish a new [jobs](https://wellfound.com/company/21Crickets/jobs). We are in the process of [fundraising](https://wellfound.com/company/21Crickets/funding)
 
 ### Polkadot Hackathon Global Series: APAC Edition 2023
-AramisTech has registered in the Polkadot Hackathon Global Series: APAC Edition 2023.
+21Crickets has registered in the Polkadot Hackathon Global Series: APAC Edition 2023.
 APAC has a feature like daemon service to connect experts or contributors to each other or as a solo. In spite of that, Arman Riazi is waiting to team up for a hackathon with the following subject; He had hoped to get it hold of; before getting behind the deadline because work on dynamic NFTs of Unique network needs more time and having ready a team with the inclusion of TS, (Rust, not for this step) and ReactJS as a part of needed experiences in short and midterm. As we are in the progress of initializing the start-up, we are to need few cloud services like a VPS for developing and implementing an MVP and also gain authorization (based on a new location without the sanction of China or the USA) for our start-up. This authorization will help us after the event to own our prize on September 6th. In spite of the prize, we need to contribute in the event for many reasons to expand our community. So, we invite you to help us to reach higher targets in the amazing music industry.
 
 > Interfaces & Experiences
@@ -40,7 +40,7 @@ APAC has a feature like daemon service to connect experts or contributors to eac
 
 <figure markdown>
 ![Polkadot Hackaton](https://www.polkadotglobalseries.com/wp-content/uploads/2023/06/Logo-1080x1080-1-768x768.png){ width="250" height="500" align=center }
-<figcaption>AramisTech in the HACKETON  July 23rd, 2023.</figcaption>
+<figcaption>21Crickets in the HACKETON  July 23rd, 2023.</figcaption>
 </figure>
 
 
@@ -50,12 +50,12 @@ The Sydney event is coming! It will take place on November 16th, 2023. We are in
 
 <figure markdown>
 ![Wiki Expo](../assets/WikiExpo.png){ width="250" height="500" align=center }
-<figcaption>AramisTech in the WIKI EXPO.Nov 16th, 2023.</figcaption>
+<figcaption>21Crickets in the WIKI EXPO.Nov 16th, 2023.</figcaption>
 </figure>
 
 ## 06/2023
 ### Posted jobs on Linkedin
-[Posted jobs on Linkedin-06/18/2023](https://linkedin.com/company/aramistech)
+[Posted jobs on Linkedin-06/18/2023](https://linkedin.com/company/21Crickets)
 
 # Report
 ## 06/2023

@@ -6,7 +6,7 @@ title: "Manifesto"
 ---
 
 > NOTICE OF CONFIDENTIALITY([Terms and Conditions](../Concern_Legal/Agreement_Legal.md))
-Case studies, comparisons, statistics, research, and recommendations are provided “AS IS” and intended for informational purposes only and should not be relied upon for operational, marketing, legal, technical, tax, financial, or other advice. AramisTech . neither makes any warranty or representation as to the completeness or accuracy of the information within this document, nor assumes any liability or responsibility that may result from reliance on such information. The Information contained herein is not intended as investment or legal advice, and readers are encouraged to seek the advice of a competent professional where such advice is required. All of details of papers were registered. The paper that you are reading is not a final version, so it is possible that some sections will have minor changes.
+Case studies, comparisons, statistics, research, and recommendations are provided “AS IS” and intended for informational purposes only and should not be relied upon for operational, marketing, legal, technical, tax, financial, or other advice. 21Crickets . neither makes any warranty or representation as to the completeness or accuracy of the information within this document, nor assumes any liability or responsibility that may result from reliance on such information. The Information contained herein is not intended as investment or legal advice, and readers are encouraged to seek the advice of a competent professional where such advice is required. All of details of papers were registered. The paper that you are reading is not a final version, so it is possible that some sections will have minor changes.
 
 > MFS is the short name of the platform, and it is going to be  mentioned  in the final version of the paper.
 
@@ -21,7 +21,7 @@ Case studies, comparisons, statistics, research, and recommendations are provide
 </figure>
 
 # Overview of the team
-AramisTech is trying register its business as a private limited company. We are an IT services and web 3.0 company. We specialize in providing development solutions to startups and development.
+21Crickets is trying register its business as a private limited company. We are an IT services and web 3.0 company. We specialize in providing development solutions to startups and development.
 The MFS team must have extensive experience across all relevant sectors - from e-commerce, to cryptocurrency, marketing, blockchain, music production, and web application. Crucially, the team would has ”done this before”, and possesses all the experience needed to realize MFS.
 
 <figure markdown>
@@ -35,7 +35,7 @@ We have some bench resources for immediate onboarding or a preferred relocation 
 
 > Setting up a new business without a doubt, an exciting endeavor. This could bring all of us a lot of great things in the future.
 
-> The paper is a summary of the main paper. So, for joining our community or making a contribution to our proposed work, it would be great to [fill out the form for contributors](../forms/Form_job_application.md) or [LinkedIn company page](https://www.linkedin.com/company/aramistech). We will send you an invitation link, and then we will have a meeting to find out your purpose or approach. Finally, you will gain access to the main resources and new ideas of the MFS NFT platform.
+> The paper is a summary of the main paper. So, for joining our community or making a contribution to our proposed work, it would be great to [fill out the form for contributors](../forms/Form_job_application.md) or [LinkedIn company page](https://www.linkedin.com/company/21Crickets). We will send you an invitation link, and then we will have a meeting to find out your purpose or approach. Finally, you will gain access to the main resources and new ideas of the MFS NFT platform.
 
 
 ## Recruiting
@@ -83,7 +83,7 @@ A HUGE benefit of this role is being able to work remotely from ANYWHERE in the 
 - [x] Fully remote asynchronous working
 - [x] After fund rising, Competitive salary + token package
 
-If you're interested, reach out to me arman2job@google.com with title `Employment in the AramisTech {your desired position}` or apply directly with your CV by the form.
+If you're interested, reach out to me arman2job@google.com with title `Employment in the 21Crickets {your desired position}` or apply directly with your CV by the form.
 
 ---
 
@@ -91,5 +91,5 @@ Best regards,
 
 *Arman Riazi, CTO*
 
-> I have founded the start-up. I wrote papers, and I ran the beginning of communication and development alone. I am to make money after raising capital. So, I would like to work for myself under the Umbrella of AramisTech to boost our power team by the time we will be given shares as a stakeholder. ref. token distribution. 
-> As we pointed out, you can start your journey in AramisTech. We are engaged to find partnerships to form the company, and you only need to keep tuned and fill out the form.
+> I have founded the start-up. I wrote papers, and I ran the beginning of communication and development alone. I am to make money after raising capital. So, I would like to work for myself under the Umbrella of 21Crickets to boost our power team by the time we will be given shares as a stakeholder. ref. token distribution. 
+> As we pointed out, you can start your journey in 21Crickets. We are engaged to find partnerships to form the company, and you only need to keep tuned and fill out the form.

@@ -6,7 +6,7 @@ title: "Partnerships"
 ---
 
 <figure markdown>
-![Cricket](../assets/logo/AramisTech-Logo0.png){ width="400" height="50" align=center }
+![Cricket](../assets/logo/21Crickets-Logo0.png){ width="400" height="50" align=center }
 <figcaption>As merry as a mars cricket</figcaption>
 </figure>
 
@@ -84,7 +84,7 @@ title: "Partnerships"
   <summary>Events</summary>
 <div class="row">
  <div class="column">
-    <img src="https://21crickets.github.io/assets/WikiExpo-lg.JPG" width="100" height="150"  alt="AramisTech in the WIKI EXPO.Nov 16th, 2023." class="center"/><blockquote>WiKiExpo</blockquote>
+    <img src="https://21crickets.github.io/assets/WikiExpo-lg.JPG" width="100" height="150"  alt="21Crickets in the WIKI EXPO.Nov 16th, 2023." class="center"/><blockquote>WiKiExpo</blockquote>
     </div>
     <div class="column">
         <img src="https://21crickets.github.io/assets/add-image.png" alt="Add yourself here" width="100" height="150"  class="center"/>

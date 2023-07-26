@@ -13,7 +13,7 @@ I made a monorepo of all of the repositories in all programming languages. You s
 
 ## Agreement
 
-- [x] I accepted to work with AramisTech in terms of the [manifest](https://21crickets.github.io/manifesto/manifesto_for_employment)
+- [x] I accepted to work with 21Crickets in terms of the [manifest](https://21crickets.github.io/manifesto/manifesto_for_employment)
 - [x] I accept the intellectual and material rights of this work and I am aware of the constructive efforts and rights of ones. 
 - [x] I confirm to insert the image of my face on the website to introduce myself in the section `Overview of the Team` in addition when I left after join to the army I confirm to leave my image on the army section of the website.(We try to remove it but we do not have enough time forever to do so.)
 
@@ -53,13 +53,13 @@ Pls open the project section on Github. I entered some sample data. You can put 
     I am in iteration no. 3 (third week). After spending 4 or 7 days, I would have found that the tasks were completed easily and quickly. So, in this situation, I must set `Performance` to `1` cos my performance has not decreased. But if I had found that my performance decreased, I would have adjusted `Performance` to `0.25`, for example.
 
 ## Linkedin
-[Follow AramisTech on linkedin](https://linkedin.com/company/aramistech)
+[Follow 21Crickets on linkedin](https://linkedin.com/company/21Crickets)
 
 ## Fork the repository
 Pls add a branch with your full name. When you think you've finished your feature or passed all of your unit tests, then you'd better send the command of the push request with the tag format of `name of the feature-letters of month (e.g., June)-no.iteration-no.order (e.g., 1 or 2...n)`
 
 ## Leave your github account
-Leave your github account in the Discord public channel to add contributors to the repository, and AramisTech.Org.
+Leave your github account in the Discord public channel to add contributors to the repository, and 21Crickets.Org.
 
 ## Contact
 

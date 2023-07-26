@@ -4,4 +4,4 @@
 
 [![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Farmanriazi%2Fmfs.svg?type=large)](https://app.fossa.com/projects/git%2Bgithub.com%2Farmanriazi%2Fmfs?ref=badge_large)
 
-[On zenodo community](https://zenodo.org/communities/aramistech-mfs)
+[On zenodo community](https://zenodo.org/communities/21Crickets-mfs)
