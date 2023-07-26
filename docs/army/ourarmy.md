@@ -41,11 +41,26 @@ They are engaged in the development of the platform in different positions. Some
     <div class="column">
         <img src="https://21crickets.github.io/assets/add-image.png" alt="Add yourself here" width="100" height="150"  class="center"/>
     </div>
+        <div class="column">
+        <img src="https://21crickets.github.io/assets/add-image.png" alt="Add yourself here" width="100" height="150"  class="center"/>
+    </div>
   </div>
 </details>
 
 <details>
   <summary>Army</summary>    
+
+  <div class="row">
+    <div class="column">
+        <img src="https://21crickets.github.io/assets/add-image.png" alt="Add yourself here" width="100" height="150"  class="center"/>
+    </div>
+    <div class="column">
+        <img src="https://21crickets.github.io/assets/add-image.png" alt="Add yourself here" width="100" height="150"  class="center"/>
+    </div>
+        <div class="column">
+        <img src="https://21crickets.github.io/assets/add-image.png" alt="Add yourself here" width="100" height="150"  class="center"/>
+    </div>
+  </div>
   <!-- <div class="row">
     <div class="column">
     <img src="https://21crickets.github.io/assets/army/davide_de_cristofano.JPG" width="100" height="150"  class="center"/><blockquote>Davide D.Cristofano, Musician.💌dcrdvd92@gmail.com 🤝</blockquote>
