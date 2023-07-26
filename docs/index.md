@@ -30,6 +30,12 @@ title: "Index"
 
 > We have not released the LTS version yet. At the following link, you will know that there are stable and draft versions. So, both of them do not count as latest-version-Stable.ASAP, we will release links with the LTS flag.
 
+# Welcome
+
+It is an open ecosystem that welcomes external participation from start-ups in the
+music industry who are interested in building innovative technologies and services to
+generate new sources of value for both musicians and listeners. We aim to continually make our blockchain more Stable, Sustainable, Secure, and Scalable (4S).
+
 # Environmental issues
 > The environmental consequences of NFTs can no longer go unaddressed. **ETH 2.0 still generates 10 million mcg CO2 per Mint!** *(Equivalent to charging your smartphone nine times).*
 

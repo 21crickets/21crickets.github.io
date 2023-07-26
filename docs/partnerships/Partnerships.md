@@ -29,7 +29,7 @@ title: "Partnerships"
         <img src="https://avatars.githubusercontent.com/u/87804347?s=200&v=4" alt="unique.network a parachain of Polkadot" width="100" height="150"  class="center"/><blockquote>Unique Network.💬</blockquote>
     </div>
     <div class="column">
-        <img src="https://aramis-tech.github.io/assets/partnerships/brgroup.JPG" alt="A leading PR agency in blockchain" width="100" height="150"  class="center"/><blockquote>BR Group.💬</blockquote>
+        <img src="https://21crickets.github.io/assets/partnerships/brgroup.JPG" alt="A leading PR agency in blockchain" width="100" height="150"  class="center"/><blockquote>BR Group.💬</blockquote>
     </div>
 </div>
 </details>
@@ -38,17 +38,17 @@ title: "Partnerships"
 <div class="row">
     <!--
     <div class="column">
-        <img src="https://aramis-tech.github.io/assets/partnerships/crypton_studio.JPG"  width="100" height="150"  class="center"/><blockquote>Crypton.Studio.💬</blockquote>
+        <img src="https://21crickets.github.io/assets/partnerships/crypton_studio.JPG"  width="100" height="150"  class="center"/><blockquote>Crypton.Studio.💬</blockquote>
     </div>
     -->
     <div class="column">
-        <img src="https://aramis-tech.github.io/assets/add-image.png" alt="Add yourself here" width="100" height="150"  class="center"/>
+        <img src="https://21crickets.github.io/assets/add-image.png" alt="Add yourself here" width="100" height="150"  class="center"/>
     </div>
     <div class="column">
-        <img src="https://aramis-tech.github.io/assets/add-image.png" alt="Add yourself here" width="100" height="150"  class="center"/>
+        <img src="https://21crickets.github.io/assets/add-image.png" alt="Add yourself here" width="100" height="150"  class="center"/>
     </div>
     <div class="column">
-        <img src="https://aramis-tech.github.io/assets/add-image.png" alt="Add yourself here" width="100" height="150"  class="center"/>
+        <img src="https://21crickets.github.io/assets/add-image.png" alt="Add yourself here" width="100" height="150"  class="center"/>
     </div>
 </div>
 </details>
@@ -56,13 +56,13 @@ title: "Partnerships"
   <summary>Notable Investors</summary>
 <div class="row">
     <div class="column">
-        <img src="https://aramis-tech.github.io/assets/add-image.png" alt="Add yourself here" width="100" height="150"  class="center"/>
+        <img src="https://21crickets.github.io/assets/add-image.png" alt="Add yourself here" width="100" height="150"  class="center"/>
     </div>
     <div class="column">
-        <img src="https://aramis-tech.github.io/assets/add-image.png" alt="Add yourself here" width="100" height="150"  class="center"/>
+        <img src="https://21crickets.github.io/assets/add-image.png" alt="Add yourself here" width="100" height="150"  class="center"/>
     </div>
     <div class="column">
-        <img src="https://aramis-tech.github.io/assets/add-image.png" alt="Add yourself here" width="100" height="150"  class="center"/>
+        <img src="https://21crickets.github.io/assets/add-image.png" alt="Add yourself here" width="100" height="150"  class="center"/>
     </div>
 </div>
 </details>
@@ -70,13 +70,13 @@ title: "Partnerships"
   <summary>Investors</summary>
 <div class="row">
     <div class="column">
-        <img src="https://aramis-tech.github.io/assets/partnerships/al-dahiya.JPG"  width="100" height="150"  class="center" /><blockquote>Al-Dahiya.💬</blockquote>
+        <img src="https://21crickets.github.io/assets/partnerships/al-dahiya.JPG"  width="100" height="150"  class="center" /><blockquote>Al-Dahiya.💬</blockquote>
     </div>
     <div class="column">
-        <img src="https://aramis-tech.github.io/assets/add-image.png" alt="Add yourself here" width="100" height="150"  class="center"/>
+        <img src="https://21crickets.github.io/assets/add-image.png" alt="Add yourself here" width="100" height="150"  class="center"/>
     </div>
     <div class="column">
-        <img src="https://aramis-tech.github.io/assets/add-image.png" alt="Add yourself here" width="100" height="150"  class="center"/>
+        <img src="https://21crickets.github.io/assets/add-image.png" alt="Add yourself here" width="100" height="150"  class="center"/>
     </div>
 </div>
 </details>
@@ -84,13 +84,13 @@ title: "Partnerships"
   <summary>Events</summary>
 <div class="row">
  <div class="column">
-    <img src="https://aramis-tech.github.io/assets/WikiExpo-lg.JPG" width="100" height="150"  alt="AramisTech in the WIKI EXPO.Nov 16th, 2023." class="center"/><blockquote>WiKiExpo</blockquote>
+    <img src="https://21crickets.github.io/assets/WikiExpo-lg.JPG" width="100" height="150"  alt="AramisTech in the WIKI EXPO.Nov 16th, 2023." class="center"/><blockquote>WiKiExpo</blockquote>
     </div>
     <div class="column">
-        <img src="https://aramis-tech.github.io/assets/add-image.png" alt="Add yourself here" width="100" height="150"  class="center"/>
+        <img src="https://21crickets.github.io/assets/add-image.png" alt="Add yourself here" width="100" height="150"  class="center"/>
     </div>
     <div class="column">
-        <img src="https://aramis-tech.github.io/assets/add-image.png" alt="Add yourself here" width="100" height="150"  class="center"/>
+        <img src="https://21crickets.github.io/assets/add-image.png" alt="Add yourself here" width="100" height="150"  class="center"/>
     </div>
 </div>
 </details>

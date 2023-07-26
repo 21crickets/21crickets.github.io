@@ -13,7 +13,7 @@ I made a monorepo of all of the repositories in all programming languages. You s
 
 ## Agreement
 
-- [x] I accepted to work with AramisTech in terms of the [manifest](https://aramis-tech.github.io/manifesto/manifesto_for_employment)
+- [x] I accepted to work with AramisTech in terms of the [manifest](https://21crickets.github.io/manifesto/manifesto_for_employment)
 - [x] I accept the intellectual and material rights of this work and I am aware of the constructive efforts and rights of ones. 
 - [x] I confirm to insert the image of my face on the website to introduce myself in the section `Overview of the Team` in addition when I left after join to the army I confirm to leave my image on the army section of the website.(We try to remove it but we do not have enough time forever to do so.)
 

@@ -126,8 +126,8 @@ markdown_extensions:
   - pymdownx.keys
   - pymdownx.magiclink:
       repo_url_shorthand: true
-      user: aramis-tech
-      repo: Aramis-Tech.github.io
+      user: 21crickets
+      repo: 21crickets.github.io
   - pymdownx.mark
   - pymdownx.smartsymbols
   - pymdownx.superfences:
@@ -153,7 +153,7 @@ extra_javascript:
   - https://polyfill.io/v3/polyfill.min.js?features=es6
   - https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js
 extra:
-  homepage: https://aramis-tech.github.io/
+  homepage: https://21crickets.github.io/
   generator: false
   analytics: 
     provider: google    
@@ -174,11 +174,11 @@ extra:
             using our <a href="https://docs.google.com/forms/d/e/1FAIpQLSePtZh6Upj2tconoH43yqadxL2W-wo0coms41yjysY_Amyqzw/viewform?usp=pp_url&entry.853143515=/browser-support/" target="_blank" rel="noopener">feedback form</a>.  
   social:
     - icon: fontawesome/brands/twitter 
-      link: https://twitter.com/aramistech
+      link: https://twitter.com/21crickets
       name: AramisTech on Twitter
     - icon: fontawesome/brands/github
       link: https://github.com/armanriazi
     - icon: fontawesome/brands/linkedin
-      link: https://linkedin.com/company/aramistech          
+      link: https://linkedin.com/company/21crickets          
 copyright: |
   &copy; 2023-25 <a href="https://github.com/armanriazi"  target="_blank" rel="noopener">Arman Riazi</a>
