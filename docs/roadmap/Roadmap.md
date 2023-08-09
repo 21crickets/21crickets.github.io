@@ -15,6 +15,7 @@ title: "Roadmap & Activities"
 
 
 - [Github NFT Music](https://github.com/armanriazi/nft-music-reference)
+- [Github 21 Crickets](https://github.com/21crickets)
 - [Activities & Project management](https://github.com/armanriazi?tab=projects)
 - [Public Social media](../social/channels.md)
 
