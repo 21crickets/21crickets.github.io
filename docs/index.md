@@ -28,7 +28,7 @@ title: "Index"
 
 # Notice
 
-> We have not released the LTS version yet. At the following link, you will know that there are stable and draft versions. So, both of them do not count as latest-version-Stable.ASAP, we will release links with the LTS flag.
+> We have not released the LTS version yet. At the following link, you will know that there are stable and draft versions. So, both of them do not count as the latest version stable.ASAP, we will release links with the LTS flag.
 
 # Welcome
 
@@ -37,11 +37,12 @@ music industry who are interested in building innovative technologies and servic
 generate new sources of value for both musicians and listeners. We aim to continually make our blockchain more Stable, Sustainable, Secure, and Scalable (4S).
 
 # Environmental issues
-> The environmental consequences of NFTs can no longer go unaddressed. **ETH 2.0 still generates 10 million mcg CO2 per Mint!** *(Equivalent to charging your smartphone nine times).*
+> The environmental consequences of NFTs can no longer go unaddressed. **ETH 2.0 still generates 10 million mcg of CO2 per Mint!** *(Equivalent to charging your smartphone nine times).*
 
 > **One NFT mint on our infrastructure is a mere 1.2 mcg CO2.** A human exhales 30 times more CO2 in one exhale.Enjoy scalability (6000 tps), painless transactions *(It is not just for saying that we can claim it)*
 >
 > Sociable Weaver - A seamless UX/UI with blockchain under the hood for organizations and individuals to manage assets like music.
+
 
 # Papers
 
@@ -51,9 +52,17 @@ generate new sources of value for both musicians and listeners. We aim to contin
 
 ☞ [Deck-For-v0.1.98-July](https://drive.google.com/drive/folders/1SXgh49IEe6aIREtJcHYkcvR6xCvcQ3EM?usp=sharing)
 
-<!--The whitepaper is under publishing but you can get it by sending an email. Because of scammer attacks, I can not mention the chapter of book and publisher. we are working on our solution without pay attention to our competitors. Even it is good news that show how competitors have been found power-full of our work. In fact, we do not have competitors because all strategies and technical works are really unique in the industry.:. We are appreciated to have you here so please bookmark our link and to be keep tune ❤️. We can not change culture of people but we can do our own solitary-figure business.
+---
 
-> Nowadays, Technical knowledge is accessible for all people even for persons that have not read a book in their life. Mindset is something that is not accessible for anybody so we severe discipline of hard work and the tempering heat of experience and maturity.-->
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.8023208.svg)](https://doi.org/10.5281/zenodo.8023208)
+
+`Available for purchase NFT ownership with your full name`
+
+:   Cite[^1] this [NFT](https://scienft.com/nfts/156)
+
+<!--The whitepaper is under publishing but you can get it by sending an email. Because of scammer attacks, I can not mention the chapter of the book and publisher. we are working on our solution without paying attention to our competitors. Even it is good news that shows how competitors have been found power-full of our work. In fact, we do not have competitors because all strategies and technical works are really unique in the industry.:. We are appreciated to have you here so please bookmark our link and to be keep tuned ❤️. We can not change the culture of people but we can do our own solitary-figure business.
+
+> Nowadays, Technical knowledge is accessible to all people even persons who have not read a book in their life. Mindset is something that is not accessible to anybody so we severe discipline hard work and the tempering heat of experience and maturity.-->
 
 <!--
 ## Whitepaper-stable-version v0.1.0-june-2023
@@ -70,17 +79,23 @@ generate new sources of value for both musicians and listeners. We aim to contin
 
 ## Technical-paper-stable-version v0.1.0-june-2023
 
-- [ ] Technical paper is also available only for persons that sending request via [zenodo](https://zenodo.org/record/8023208)
+- [ ] Technical paper is also available only for persons that sending a request via [zenodo](https://zenodo.org/record/8023208)
 
 ## Full-paper-stable-version v0.1.0-june-2023
 
-- [ ] Full paper is also available only for persons that sending request via [zenodo](https://zenodo.org/record/8023208)
+- [ ] Full paper is also available only for persons that sending a request via [zenodo](https://zenodo.org/record/8023208)
 
-> Backup method: Papers are available only for persons that sent a email to: `armanriyazi.github.io@gmail.com` with title: `Request Technical or full Paper-armanriyazi.github.io`
+> Backup method: Papers are available only for persons that sent an email to: `armanriyazi.github.io@gmail.com` with the title: `Request Technical or full Paper-armanriyazi.github.io`
 
 > Presented with respects
 
 -->
+
+# Invitation
+
+We invite you to work with us after you read the paper. In the paper, we have specified some strategies for investment and shareholding.
+Please take a look at the menu of the website if you are a developer, investor, or job seeker. 
+:  `The business is for you and I am a part of the team.`
 
 # Contact
 
@@ -119,12 +134,14 @@ generate new sources of value for both musicians and listeners. We aim to contin
 
 - *[InterRegEurope](https://www.interregeurope.eu/project-ideas/nft-music-platform)*
 
+[^1]: A. Riazi [Towards a new Blanket Licensing Digitized NFT Music Decentralized] - ScieNFT 2023 November NFTID: 164
+
 <!--
 - *[21Crickets-MFS(zendo community)](https://zenodo.org/communities/21Crickets-mfs)*
 
 - *[Metaverse Space. A.R](https://oncyber.io/spaces/KDVwdvMNh569X8RzLwoV)*
 
 - *[21Crickets-Logo](./assets/logo/)*
-  > Add the name of file to the link: 
+  > Add the name of the file to the link: 
   > 21Crickets-Logo{0-9}.{png/jpg}
 -->
